@@ -1,188 +1,276 @@
 <!DOCTYPE html>
 <html lang="en">
+<head>
 
-    <head>
-        <meta charset="utf-8">
-        <title>Hospitali ya Jiji la Arusha</title>
-        <style>
-            blink {
-              color: #c90505;
-              font-size: 20px;
-              font-weight: bold;
-              font-family: sans-serif;
-            }
-          </style>
-        <meta content="width=device-width, initial-scale=1.0" name="viewport">
-        <meta content="" name="keywords">
-        <meta content="" name="description">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
 
-        <!-- Google Web Fonts -->
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Jost:wght@500;600&family=Roboto&display=swap" rel="stylesheet"> 
+    <title>Home | Arusha City Hospital</title>
 
-        <!-- Icon Font Stylesheet -->
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"/>
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
 
-        <!-- Libraries Stylesheet -->
-        <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-        <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 
+    <!-- Responsive stylesheet  -->
+    <link rel="stylesheet" type="text/css" href="css/responsive.css">
 
-        <!-- Customized Bootstrap Stylesheet -->
-        <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Favicon -->
+    <link href="img/favicon.png" rel="shortcut icon" type="image/png">
 
-        <!-- Template Stylesheet -->
-        <link href="css/style.css" rel="stylesheet">
-    </head>
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
 
-    <body>
+</head>
+ 
+<body>
 
-        
-        <!-- Topbar Start -->
-        <div class="container-fluid bg-primary px-5 d-none d-lg-block">
-            <div class="row gx-0">
-                <div class="col-lg-8 text-center text-lg-start mb-2 mb-lg-0">
-                        
-                    <div class="d-inline-flex align-items-center" style="height: 45px;">
-                     
-                        <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href=""><i class="fab fa-twitter fw-normal"></i></a>
-                        <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.facebook.com/profile.php?id=61556364492761"><i class="fab fa-facebook-f fw-normal"></i></a>
+    <div class="preloader"></div>
 
-                        <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2" href="https://www.instagram.com/hospitaliyajijiarusha?igsh=ZGUzMzM3NWJiOQ=="><i class="fab fa-instagram fw-normal"></i></a>
-                        <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle" href="https://www.youtube.com/@HospitaliyaArushaJiji?si=NJwQ08TPhU4qBBpa"><i class="fab fa-youtube fw-normal"></i></a>
-                   
-
-                       
-
-                    </div>
+    <!-- Header navbar start -->
+    <div class="header-topbar style-2">
+        <div class="container padding-none">
+            <div class="row">
+                <div class="col-md-8 col-sm-6 welcome-top">
+                    <ul class="list-inline top-icon">
+                        <li><i class="fa fa-envelope"></i> ach@arushacc.go.tz</li>
+                        <li><i class="fa fa-clock-o"></i> (+255) 682 136 704</li>
+                    </ul>
                 </div>
-                
-                <div class="col-lg-4 text-center text-lg-end">
-                    <div class="d-inline-flex align-items-center" style="height: 45px;">
-                      
-                    </div>
+                <div class="col-md-4 col-sm-6">
+                <ul class="list-inline text-right icon-style-1">
+                        <li class=" hvr-rectangle-out"><a href="https://www.instagram.com/hospitaliyajijiarusha?igsh=ZGUzMzM3NWJiOQ=="><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
+                            <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334"/>
+                          </svg>   
+                          </a></li>
+                        
+                        <li class=" hvr-rectangle-out"><a href="https://www.facebook.com/profile.php?id=61556364492761"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16">
+                            <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951"/>
+                          </svg></a></li>
+                        <li class=" hvr-rectangle-out"><a href="https://www.youtube.com/@HospitaliyaArushaJiji?si=NJwQ08TPhU4qBBpa"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-youtube" viewBox="0 0 16 16">
+                            <path d="M8.051 1.999h.089c.822.003 4.987.033 6.11.335a2.01 2.01 0 0 1 1.415 1.42c.101.38.172.883.22 1.402l.01.104.022.26.008.104c.065.914.073 1.77.074 1.957v.075c-.001.194-.01 1.108-.082 2.06l-.008.105-.009.104c-.05.572-.124 1.14-.235 1.558a2.01 2.01 0 0 1-1.415 1.42c-1.16.312-5.569.334-6.18.335h-.142c-.309 0-1.587-.006-2.927-.052l-.17-.006-.087-.004-.171-.007-.171-.007c-1.11-.049-2.167-.128-2.654-.26a2.01 2.01 0 0 1-1.415-1.419c-.111-.417-.185-.986-.235-1.558L.09 9.82l-.008-.104A31 31 0 0 1 0 7.68v-.123c.002-.215.01-.958.064-1.778l.007-.103.003-.052.008-.104.022-.26.01-.104c.048-.519.119-1.023.22-1.402a2.01 2.01 0 0 1 1.415-1.42c.487-.13 1.544-.21 2.654-.26l.17-.007.172-.006.086-.003.171-.007A100 100 0 0 1 7.858 2zM6.4 5.209v4.818l4.157-2.408z"/>
+                          </svg></a></li>
+                        <li class=" hvr-rectangle-out"><a href="#"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
+                            <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334q.002-.211-.006-.422A6.7 6.7 0 0 0 16 3.542a6.7 6.7 0 0 1-1.889.518 3.3 3.3 0 0 0 1.447-1.817 6.5 6.5 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.32 9.32 0 0 1-6.767-3.429 3.29 3.29 0 0 0 1.018 4.382A3.3 3.3 0 0 1 .64 6.575v.045a3.29 3.29 0 0 0 2.632 3.218 3.2 3.2 0 0 1-.865.115 3 3 0 0 1-.614-.057 3.28 3.28 0 0 0 3.067 2.277A6.6 6.6 0 0 1 .78 13.58a6 6 0 0 1-.78-.045A9.34 9.34 0 0 0 5.026 15"/>
+                          </svg></a></li>
+                        
+                    </ul>
                 </div>
             </div>
         </div>
-        <!-- Topbar End -->
+    </div>
 
-        <!-- Navbar & Hero Start -->
-        <div class="container-fluid position-relative p-0">
-            
-            <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
-                <a href="index1.html" class="navbar-brand p-0">
-                    <h1 class="m-0"><i class="fa fa-map-marker-alt me-3"></i><font size=4>Hospitali ya Jiji Arusha</font></h1>
-                    <!-- <img src="img/logo.png" alt="Logo"> -->
-                </a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
-                    <span class="fa fa-bars"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarCollapse">
-                    <div class="navbar-nav ms-auto py-0">
-                        <a href="index1.html" class="nav-item nav-link active">Nyumbani</a>
-                        
-                        <div class="nav-item dropdown">
-                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Huduma</a>
-                            <div class="dropdown-menu m-0">
-                                <a href="eyeultrasound1.html" class="dropdown-item"><b>HUDUMA MIONZI ULTRA SOUND</b></a>
-                                <a href="physiotherapysurgery1.html" class="dropdown-item"><b>HUDUMA MAZOEZI YA VIUNGO</b></a>
-                                <a href="medicalservices1.html" class="dropdown-item"><b>HUDUMA KLINIKI YA MENO</b></a>
-                                <a href="eyeultrasound1.html" class="dropdown-item"><b>HUDUMA KLINIKI YA MACHO</b></a>
-                                <a href="physiotherapysurgery1.html" class="dropdown-item"><b>HUDUMA YA UPASUAJI</b></a>
-                                <a href="nutritionservice1.html" class="dropdown-item"><b>HUDUMA YA LISHE</b></a>
-                                <a href="diagnosisconsultation1.html" class="dropdown-item"><b>HUDUMA YA VIPIMO</b></a>
-                                <a href="medicalservices1.html" class="dropdown-item"><b>HUDUMA YA UZAZI</b></a>
-                                <a href="diagnosisconsultation1.html" class="dropdown-item"><b>HUDUMA YA USHAURI</b></a>
-                            </div>
+    <div class="main-navbar conner-style style-2 position-fixed">
+        <div class="container padding-none">
+            <div class="row">
+                <div class="col-md-12">
+                    <nav class="navbar navbar-default">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand dis-none" href="index1.html">  <h1 class="m-0"><i class="fa fa-map-marker-alt me-3"></i><font size=4 color="black">Hospitali ya Jiji Arusha</font></h1>
+                                <!-- <img src="img/logo.png" alt="Logo"> -->
+                                </a>
                             
                         </div>
-                        
-                        <div class="nav-item dropdown">
-                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Vitengo</a>
-                            <div class="dropdown-menu m-0">
-                                <a href="management1.html" class="dropdown-item"><b>KITENGO CHA UONGOZI</b></a>
-                                <a href="finance1.html" class="dropdown-item"><b>KITENGO FEDHA NA MIPANGO</b></a>
-                                <a href="ict1.html" class="dropdown-item"><b>KITENGO CHA TEHAMA</b></a>
-                                <a href="laboratory1.html" class="dropdown-item"><b>KITENGO CHA MAABARA</b></a>
-                               <a href="opd1.html" class="dropdown-item"><b>KITENGO WAGONJWA WA NJE</b></a>
-                               <a href="ipd1.html" class="dropdown-item"><b>KITENGO WAGONJWA WA NDANI</b></a>
-                               <a href="labour1.html" class="dropdown-item"><b>KITENGO CHA UZAZI</b></a>
-                               <a href="rch1.html" class="dropdown-item"><b>KITENGO CHA UZAZI WA MPANGO</b></a>
-                               <a href="eye1.html" class="dropdown-item"><b>KITENGO CHA MACHO</b></a>
-                               <a href="dental1.html" class="dropdown-item"><b>KITENGO CHA MENO</b></a>
-                               <a href="pharmacy1.html" class="dropdown-item"><b>KITENGO CHA DAWA</b></a>
-                               <a href="theatre1.html" class="dropdown-item"><b>KITENGO CHA UPASUAJI</b></a>
-                               <a href="nutrition1.html" class="dropdown-item"><b>KITENGO CHA LISHE</b></a>
-                               <a href="physiotherapy1.html" class="dropdown-item"><b>KITENGO MAZOEZI YA VIUNGO</b></a>
-                               <a href="radiology1.html" class="dropdown-item"><b>KITENGO CHA MIONZI</b></a>
-                            </div>
-                        </div>
-                        <div class="nav-item dropdown">
-                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Viambata</a>
-                            <div class="dropdown-menu m-0">
-                                <a href="vacancies1.html" class="dropdown-item"><b>NAFASI</b></a>
-                                <a href="publication1.html" class="dropdown-item"><b>MACHAPISHO</b></a>
-                                <a href="tender1.html" class="dropdown-item"><b>ZABUNI</b></a>
-                                <a href="publication1.html" class="dropdown-item"><b>TAARIFA</b></a>
-                                <a href="documents1.html" class="dropdown-item"><b>HATI</b></a>
-                                <a href="reports1.html" class="dropdown-item"><b>RIPOTI VITENGO</b></a>
-                                <a href="gallery1.html" class="dropdown-item"><b>MAKTABA PICHA</b></a>
-                            
-                            </div>
-                        </div>
-                        <div class="nav-item dropdown">
-                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Ustawi Jamii</a>
-                            <div class="dropdown-menu m-0">
-                                <a href="cashpayment1.html" class="dropdown-item"><b>MALIPO PAPO HAPO</b></a>
-                                  <a href="cashpayment1.html" class="dropdown-item"><b>BIMA YA CHF</b></a>
+                        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" data-hover="dropdown" data-animations-delay="1.8s" data-animations="fadeInUp">
+                            <ul class="nav navbar-nav bg-none navbar-right style-3">
+                                <li class="dropdown active">
+                                    <a href="index1.html">Nyumbani</a>
+                                   
+                                </li>
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Depertment"><font color="black"><b>Huduma</b></font>
+                                       </span></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="depertment-4copy.html">Huduma Mionzi</a>
+                                        </li>
+                                        <li><a href="physiotherapy1.html">Huduma Mazoezi</a>
+                                        </li>
+                                        <li><a href="dental1.html">Huduma ya Meno</a>
+                                        </li>
+                                        <li><a href="eye1.html">Huduma ya Macho</a>
+                                        </li>
+                                        <li><a href="consultation1.html">Huduma ya Ushauri</a>
+                                        </li>
+                                        <li><a href="surgery1.html">Huduma ya Upasuaji</a>
+                                        </li>
+                                        <li><a href="labor1.html">Wodi ya Uzazi</a>
+                                        </li>
+                                        <li><a href="delivery1.html">Huduma ya Kujifungua</a>
+                                        </li>
+                                        <li><a href="nutrition1.html">Huduma ya Lishe</a>
+                                        </li>
+                                        <li><a href="ent1.html">Huduma ya ENT</a>
+                                        </li>
+                                        <li><a href="patientward1.html">Book Wodi ya Wagonjwa</a>
+                                        </li>
+                                        
+                                        
+                                    </ul>
+                                </li>
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Pages"><font color="black"><b>Vitengo</b></font>
+                                      </span></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="management1.html">Uongozi </a>
+                                        </li>
+                                        <li><a href="finance1.html">Fedha na Mipango</a>
+                                        </li>
+                                        <li><a href="ict1.html">TEHAMA</a>
+                                        </li>
+                                        <li><a href="laboratory1.html">Maabara</a>
+                                        </li>
+                                        <li><a href="opd1.html">Wagonjwa wa Nje</a>
+                                        </li>
+                                        <li><a href="ipd1.html">Wagonjwa wa Ndani</a>
+                                        </li>
+                                        <li><a href="laborward1.html">Wodi ya Wazazi</a>
+                                        </li>
+                                        <li><a href="rch1.html">Mama na Mtoto</a>
+                                        </li>
+                                        <li><a href="eyedepartment1.html">Macho</a>
+                                        </li>
+                                        <li><a href="dentaldepartment1.html">Meno</a>
+                                        </li>
+                                        <li><a href="pharmacy1.html">Famasi</a>
+                                        </li>
+                                        <li><a href="theatre1.html">Upasuaji</a>
+                                        </li>
+                                        <li><a href="physiotherapydepartment1.html">Tiba kwa Mazoezi</a>
+                                        </li>
+                                        <li><a href="radiologydepartment1.html">Mionzi</a>
+                                        </li>
+                                        
+                                    </ul>
+                                </li>
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> <span data-hover="Doctors"><font color="black"><b>Viambata</b></font>
+                                         </span></a>
+                                    <ul class="dropdown-menu">
+                                        
+                                        <li><a href="team-col-4copy.html">Nafasi Mpya</a>
+                                        </li>
+                                        
+                                        <li><a href="team-details1.html">Tenda</a></li>
+                                            <li><a href="depertment-3copy.html">Taarifa</a></li>
+                                                <li><a href="depertment-1copy.html">Nyaraka</a></li>
+                                                    <li><a href="department1.html">Ripoti Vitengo</a></li>
+                                                        <li><a href="depertment-6copy.html">Maktaba Picha</a></li>
+                                       
+                                    </ul>
+                                </li>
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Portfolio"><font color="black"><b>Ustawi wa Jamii</b></font>
+                                         </span></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="shop-grid1.html">Malipo Papohapo</a>
+                                        </li>   
+                                        <li><a href="shop-grid1.html">Bima CHF</a>
+                                        </li>
+                                        <li><a href="shop-grid1.html">Bima NHIF</a>
+                                        </li>
+                                        <li><a href="shop-grid1.html">Msamaha</a>
+                                        </li>
+                                    </ul>
+                                </li>
                                 
-                                <a href="insurance1.html" class="dropdown-item"><b>BIMA YA NHIF</b></a>
-                              
-                               
-                                <a href="insurance1.html" class="dropdown-item"><b>MISAMAHA YA MALIPO</b></a>
-                               
-                            </div>
-                            
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Blog"><font color="black"><b>Huduma TEHAMA</b></font>
+                                        </span></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="https://gothomis.tamisemi.go.tz/#/auth">GoT-HoMIS</a>
+                                        </li>
+                                        <li><a href="https://ess.utumishi.go.tz">PEPMIS System</a>
+                                        </li>
+                                        <li><a href="https://mail.arushacc.go.tz/">Staff Mails</a>
+                                        </li>
+                                        <li><a href="https://play.google.com/store/apps/details?id=org.smartregister.chw.moh.hf">Kituoni App</a>
+                                        </li>
+                                        <li><a href="blog-right1.html">Masuala ya Hardware</a>
+                                        </li>
+                                        <li><a href="blog-left1.html">Masuala ya Mtandao</a>
+                                        </li>
+                                        <li><a href="blog-center1.html">Masuala ya Software</a>
+                                        </li>
+                                        <li><a href="contact-style-1copy.html">Msaada wa Kiufundi</a>
+                                            <li><a href="contact-style-2copy.html">Usajili Mafunzo Vitendo </a>
+                                        </li>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Contact"><font color="black"><b>Badili Lugha</b></font>
+                                        </span></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="doctorappointment1.php">Swahili</a>
+                                        </li>
+                                        <li><a href="doctorappointment.php">English</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <div class="dropdown-buttons">
+                                        <div class="btn-group menu-search-box">
+                                            <button type="button" class="btn dropdown-toggle" id="header-drop-3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="icon icon-Search"></i></button>
+                                            <ul class="dropdown-menu dropdown-menu-right dropdown-animation" aria-labelledby="header-drop-3">
+                                                <li>
+                                                    <form role="search" class="search-box">
+                                                        <div class="form-group">
+                                                            <input type="text" class="form-control" placeholder="Search">
+                                                            <i class="icon icon-Search form-control-feedback"></i>
+                                                        </div>
+                                                    </form>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="btn-group">
+                                            <button type="button" class="btn dropdown-toggle" id="header-drop-4" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><font color="black"><i class="fa fa-map-marker-alt me-3"></i></font><span class="menu-cart"><font color="white"><i class="fa fa-map-marker-alt me-3"></i></font></span></button>
+                                            <ul class="dropdown-menu dropdown-menu-right cart dropdown-animation" aria-labelledby="header-drop-4">
+                                                <li>
+                                                    
+                                                    <table class="table table-hover">
+                                                        <thead>
+                                                        <tr>
+                                                            
+                                                            <th class="product">    
+                                                            <a href="location1.html" class="menu-shop-btn">Mahali Tulipo</a></th>
+                                                                
+                                                        </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                        <tr>
+                                                            
+                                                            <td class="product">       <a href="https://meet.google.com/riu-vboz-hou" class="menu-shop-btn">Mjadala Mtandao</a></td>
+                                                           
+                                                        </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
                         </div>
-                        <div class="nav-item dropdown">
-                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Huduma TEHAMA</a>
-                            <div class="dropdown-menu m-0">
-                                <a href="https://gothomis.tamisemi.go.tz" class="dropdown-item"><b><font size=2>GoT - HoMIS</font></b></a>
-                                <a href="https://ess.utumishi.go.tz" class="dropdown-item"><b><font size=2>PEPMIS</font></b></a>
-                                <a href="https://mail.arushacc.go.tz/" class="dropdown-item"><b><font size=2>STAFF MAILS</font></b></a>
-                                <a href="https://play.google.com/store/apps/details?id=org.smartregister.chw.moh.hf" class="dropdown-item"><b><font size=2>KITUONI APP</font></b></a>
-                                <a href="hardwaresoftware1.html" class="dropdown-item"><b><font size=2>HARDWARE</font></b></a>
-                                <a href="networktechnical1.html" class="dropdown-item"><b><font size=2>MTANDAO</font></b></a>
-                                <a href="hardwaresoftware1.html" class="dropdown-item"><b><font size=2>PROGRAMU</font></b></a>
-                                <a href="networktechnical1.html" class="dropdown-item"><b><font size=2>UFUNDI</font></b></a>
-                                <a href="fieldstudent1.html" class="dropdown-item"><b><font size=2>USAJILI MAFUNZO</font></b></a>
-                                
-                            </div>
-                        </div>
-                        <div class="nav-item dropdown">
-                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown"><font size=3>Badili Lugha</font></a>
-                            <div class="dropdown-menu m-0">
-                                <a href="doctorappointment1.php" class="dropdown-item"><b>Swahili</b></a>
-                                <a href="doctorappointment.php" class="dropdown-item"><b>English</b></a>
-                               
-                            </div>
-                        </div>
-                    </div>
-                              </div>
-            </nav>
-
-        <!-- Navbar & Hero End -->
-
-        <!-- Header Start -->
-        <div class="container-fluid bg-breadcrumb">
-            <div class="container text-center py-5" style="max-width: 900px;">
-                <h3 class="text-white display-3 mb-4"><font size=5>Maombi Yako Yamefika</font></h1>
-                  
+                    </nav>
+                </div>
             </div>
         </div>
-        <!-- Header End -->
+    </div>
+    <!-- Header navbar end -->
 
         <!-- Travel Guide Start -->
         <div class="container-fluid guide py-5">
@@ -236,219 +324,197 @@
             </div>
         </div>
         <!-- Travel Guide End -->
-
-       
-         <!-- Testimonial Start -->
-         <div class="container-fluid testimonial py-5">
-            <div class="container py-5">
-                <div class="mx-auto text-center mb-5" style="max-width: 900px;">
-                    <h5 class="section-title px-3">Wadau Wetu</h5>
-                    
-                </div>
-                <div class="testimonial-carousel owl-carousel">
-                    <div class="testimonial-item text-center rounded pb-4">
-                        <div class="testimonial-comment bg-light rounded p-4">
-                            
-                        </div>
-                        <div class="testimonial-img p-1">
-                            <img src="img/mtmeru.PNG" class="img-fluid rounded-circle" alt="Image">
-                        </div>
-                        <div style="margin-top: -35px;">
-                            <h5 class="mb-0">Hospitali ya Rufaa Mount Meru</h5>
-                           
-                           
+<!-- divider start -->
+<section class="service-area over-layer-default" style="background-image:url(img/bg/5.jpg);">
+        <div class="container padding-bottom-none padding-top-40">
+            <div class="section-content">
+                <div class="row">
+                    <div class="col-sm-12 col-md-4">
+                        <div class="service-item style-1 text-white border-right">
+                            <div class="service-icon">
+                                <i class="pe-7s-call"></i>
+                            </div>
+                            <div class="content">
+                                <h5><a href="#">Wasiliana Nasi</a></h5>
+                                <p>(+255) 682 136 704</p>
+                            </div>
                         </div>
                     </div>
-                    <div class="testimonial-item text-center rounded pb-4">
-                        <div class="testimonial-comment bg-light rounded p-4">
-                           
-                        </div>
-                        <div class="testimonial-img p-1">
-                            <img src="img/nmb.jpg" class="img-fluid rounded-circle" alt="Image">
-                        </div>
-                        <div style="margin-top: -35px;">
-                            <h5 class="mb-0">Benki NMB</h5>
-                            
-                           
+                    <div class="col-sm-12 col-md-4">
+                        <div class="service-item style-1 text-white border-right">
+                            <div class="">
+                                <i class="pe-7s-mail-open"></i>
+                            </div>
+                            <div class="content">
+                                <h5><a href="#">Tuma Ujumbe</a></h5>
+                                <p>ach@arushacc.go.tz</p>
+                            </div>
                         </div>
                     </div>
-                    <div class="testimonial-item text-center rounded pb-4">
-                        <div class="testimonial-comment bg-light rounded p-4">
-                            
-                        </div>
-                        <div class="testimonial-img p-1">
-                            <img src="img/nhif.PNG" class="img-fluid rounded-circle" alt="Image">
-                        </div>
-                        <div style="margin-top: -35px;">
-                            <h5 class="mb-0">Bima NHIF</h5>
-                           
-                        </div>
-                    </div>
-                    <div class="testimonial-item text-center rounded pb-4">
-                        <div class="testimonial-comment bg-light rounded p-4">
-                           
-                        </div>
-                        <div class="testimonial-img p-1">
-                            <img src="img/msd.PNG" class="img-fluid rounded-circle" alt="Image">
-                        </div>
-                        <div style="margin-top: -35px;">
-                            <h5 class="mb-0">Bohari Dawa MSD</h5>
-                            
-                              
+                    <div class="col-sm-12 col-md-4">
+                        <div class="service-item style-1 text-white">
+                            <div class="">
+                                <i class="pe-7s-map-marker"></i>
+                            </div>
+                            <div class="content">
+                                <h5><a href="#">Eneo Tulipo</a></h5>
+                                <p>Njiro, Contenna. S.L.P 3013 Arusha. TANZANIA </p>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- Testimonial End -->
-
-       <!-- Subscribe Start -->
-       <div class="container-fluid subscribe py-5">
-            <div class="container text-center py-5">
-                <div class="mx-auto text-center" style="max-width: 900px;">
-                    <h5 class="subscribe-title px-3">Maoni</h5>
-                    <h1 class="text-white mb-4">Tafadhali Andika Maoni Yako</h1>
-                    <p class="text-white mb-5">Tafadhali Andika Maoni Yako Hapa kwa Ajira ya Kuboresha Huduma. Karibu sana!!
-
-                    </p>
- <form action="feedback1.php" method="post">
-                    <div class="position-relative mx-auto">
-                        <input name="comment" class="form-control border-primary rounded-pill w-100 py-3 ps-4 pe-5" type="text" placeholder="Andika Majina Kamili, Maoni Yako">
-                        <button class="btn btn-primary rounded-pill position-absolute top-0 end-0 py-2 px-4 mt-2 me-2" type="submit"><font size=3>Tuma</font></button>
-                  
-                  
-                    </div>
-                    </form>
-  
-                </div>
-            </div>
-        </div>
-        <!-- Subscribe End -->
-
-         <!-- Footer Start -->
-<div class="container-fluid footer py-5">
-    <div class="container py-5">
-        <div class="row g-5">
-            <div class="col-md-6 col-lg-6 col-xl-3">
-                <div class="footer-item d-flex flex-column">
-                    <h4 class="mb-4 text-white">Wasiliana Nasi</h4>
-                    <a href=""><i class="fa fa-map-marker-alt me-3"></i> Njiro, Contenna. S.L.P 3013 Arusha, TANZANIA</a>
-                    <a href="mailto: cd@arushacc.go.tz"><i class="fas fa-envelope me-2"></i> cd@arushacc.go.tz</a>
-                    
-                    <a href="tel:+255-682-136704"><i class="fas fa-phone me-2"></i> (+255) 682 136 704</a>
-                   
-                    <div class="d-flex align-items-center">
+    </section>
+    <!-- divider end -->
+    
+    <!-- Footer Style start -->
+    <footer class="bg-faded">
+        <div class="container">
+            <div class="section-content">
+                <div class="row margin-top-30">
+                    <div class="col-md-3">
+                      <div class="footer-item footer-widget-one">
+                    <p><h4>Mawasiliano </h4></p>
+                                           <ul class="address">
+                            <li>  <a href=""><i class="fa fa-map-marker-alt me-3"></i> <font size=2>Njiro, Contenna. S.L.P 3013 Arusha, TANZANIA</font></a></li>
+                            <li> <a href="mailto: ach@arushacc.go.tz"><i class="fas fa-envelope me-2"></i> <font size=2>ach@arushacc.go.tz</font></a></li>
+                            <li>  <a href="tel:+255-682-136704"><i class="fas fa-phone me-2"></i> <font size=2>(+255) 682 136 704</font></a>
+                            </li>
+                          
+                        </ul>
+                          
+                          <hr>
+                          <ul class="social-icon bg-theme">
+ 
                        
-                        <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.facebook.com/profile.php?id=61556364492761"><i class="fab fa-facebook-f"></i></a>
-                        <a class="btn-square btn btn-primary rounded-circle mx-1" href=""><i class="fab fa-twitter"></i></a>
-                        <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.instagram.com/hospitaliyajijiarusha?igsh=ZGUzMzM3NWJiOQ=="><i class="fab fa-instagram"></i></a>
-                        <a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.youtube.com/@HospitaliyaArushaJiji?si=NJwQ08TPhU4qBBpa"><i class="fab fa-youtube fw-normal"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-6 col-xl-3">
-                <div class="footer-item d-flex flex-column">
-                    <h4 class="mb-4 text-white">Mifumo Saidizi</h4>
-                    <a href="http://192.168.10.100:7070/#"><i class="fas fa-angle-right me-2"></i> GoT - HoMIS</a>
-                    <a href="https://ess.utumishi.go.tz"><i class="fas fa-angle-right me-2"></i>Mfumo PEPMIS</a>
-                    
-                    <a href="https://www.moh.go.tz"><i class="fas fa-angle-right me-2"></i> Wizara ya Afya</a>
-                    <a href="https://www.tanzania.go.tz"><i class="fas fa-angle-right me-2"></i> Tovuti  Kuu ya Serikali</a>
-                    <a href="https://www.mnh.or.tz"><i class="fas fa-angle-right me-2"></i> Hospitali ya Taifa Muhimbili</a>
-                    <a href="https://www.nhif.or.tz"><i class="fas fa-angle-right me-2"></i> Mfuko wa Bima (NHIF)</a>
-                    <a href="https://www.who.int"><i class="fas fa-angle-right me-2"></i> Shirika la Afya Duniani</a>
-                    <a href="https://arushacc.go.tz"><i class="fas fa-angle-right me-2"></i> Halmashauri Arusha Jiji</a>
-                    <a href="https://play.google.com/store/apps/details?id=org.smartregister.chw.moh.hf"><i class="fas fa-angle-right me-2"></i> KITUONI App</a>
-                    <a href="https://www.mct.go.tz"><i class="fas fa-angle-right me-2"></i> Baraza la Madaktari Tanganyika</a>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-6 col-xl-3">
-                <div class="footer-item d-flex flex-column">
-                    <h4 class="mb-4 text-white">Fomu Mtandao</h4>
-                    <a href="extraduty.pdf"><i class="fas fa-angle-right me-2"></i> Extra Duty Form</a>
-                    <a href="allowanceform.pdf"><i class="fas fa-angle-right me-2"></i> Allowance Form</a>
-                    <a href="bincard.pdf"><i class="fas fa-angle-right me-2"></i> BIN Card</a>
-                    <a href="issuevoucher.pdf"><i class="fas fa-angle-right me-2"></i> Issue Voucher</a>
-                    <a href="mtuha.pdf"><i class="fas fa-angle-right me-2"></i> MTUHA</a>
-                    <a href="maadili.pdf"><i class="fas fa-angle-right me-2"></i>Maadili Mtumishi wa Umma</a>
-                    <a href="arushacityhospitalictpolicy.pdf"><i class="fas fa-angle-right me-2"></i> Sera Matumizi TEHAMA</a>
-                    <a href="matibabuform.pdf"><i class="fas fa-angle-right me-2"></i> Matibabu Fomu</a>
-                    <a href="nhifnewmember.pdf"><i class="fas fa-angle-right me-2"></i> Usajili NHIF</a>
-                    <a href="nhifstudent.pdf"><i class="fas fa-angle-right me-2"></i> Usajili NHIF [ Mwanafunzi ]</a>
-                    <a href="nhifmstaafu.pdf"><i class="fas fa-angle-right me-2"></i> Usajili NHIF [ Mstaafu ]</a>
-                </div>
-            </div>
-            
-            <div class="col-md-6 col-lg-6 col-xl-3">
-                <div class="footer-item">
-                    <div class="row gy-3 gx-2 mb-4">
-                        
-                        <div class="col-xl-6">
-                            
+                        <li><a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.facebook.com/profile.php?id=61556364492761"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16">
+                            <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951"/>
+                          </svg>
+                          </a></li>
+                        <li><a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.youtube.com/@HospitaliyaArushaJiji?si=NJwQ08TPhU4qBBpa"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-youtube" viewBox="0 0 16 16">
+                            <path d="M8.051 1.999h.089c.822.003 4.987.033 6.11.335a2.01 2.01 0 0 1 1.415 1.42c.101.38.172.883.22 1.402l.01.104.022.26.008.104c.065.914.073 1.77.074 1.957v.075c-.001.194-.01 1.108-.082 2.06l-.008.105-.009.104c-.05.572-.124 1.14-.235 1.558a2.01 2.01 0 0 1-1.415 1.42c-1.16.312-5.569.334-6.18.335h-.142c-.309 0-1.587-.006-2.927-.052l-.17-.006-.087-.004-.171-.007-.171-.007c-1.11-.049-2.167-.128-2.654-.26a2.01 2.01 0 0 1-1.415-1.419c-.111-.417-.185-.986-.235-1.558L.09 9.82l-.008-.104A31 31 0 0 1 0 7.68v-.123c.002-.215.01-.958.064-1.778l.007-.103.003-.052.008-.104.022-.26.01-.104c.048-.519.119-1.023.22-1.402a2.01 2.01 0 0 1 1.415-1.42c.487-.13 1.544-.21 2.654-.26l.17-.007.172-.006.086-.003.171-.007A100 100 0 0 1 7.858 2zM6.4 5.209v4.818l4.157-2.408z"/>
+                          </svg>
+                          </a>
+                        </li>
+                        <li><a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.instagram.com/hospitaliyajijiarusha?igsh=ZGUzMzM3NWJiOQ=="><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
+                            <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334"/>
+                          </svg>   </i></a>
+                        </li>
+                        <li> <a class="btn-square btn btn-primary rounded-circle mx-1" href=""><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
+                            <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334q.002-.211-.006-.422A6.7 6.7 0 0 0 16 3.542a6.7 6.7 0 0 1-1.889.518 3.3 3.3 0 0 0 1.447-1.817 6.5 6.5 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.32 9.32 0 0 1-6.767-3.429 3.29 3.29 0 0 0 1.018 4.382A3.3 3.3 0 0 1 .64 6.575v.045a3.29 3.29 0 0 0 2.632 3.218 3.2 3.2 0 0 1-.865.115 3 3 0 0 1-.614-.057 3.28 3.28 0 0 0 3.067 2.277A6.6 6.6 0 0 1 .78 13.58a6 6 0 0 1-.78-.045A9.34 9.34 0 0 0 5.026 15"/>
+                          </svg></a>
+                        </li>
+                       
+                    </ul>
                         </div>
                     </div>
-                    
-                    <div class="footer-bank-card">
-                    
-                     <div align="center"><h4 class="text-white mb-3"><font size=3>Jamhuri Ya Muungano wa TANZANIA</font></h4>
-                     </div>
-                     <div class="row g-4">
-                        <div align="center">
-                                        <img src="img/coat.png" alt="coat" style="width:30%">
-                                   
+                    <div class="col-md-3">
+                      <div class="footer-item">
+                        <div class="footer-title">
+                          <h4>Viunganishi </h4>
+                          <div class="border-style-2"></div>
                         </div>
-                        
-                </div> 
-            </div>
-            
+                        <ul class="footer-list border-deshed color-icon">
+                          <li><i class="pe-7s-angle-right"></i><a href="https://gothomis.tamisemi.go.tz/#/auth"><font color="black">GoT-HoMIS</font></a></li>
+                          <li><i class="pe-7s-angle-right"></i><a href="https://ess.utumishi.go.tz"><font color="black">PEPMIS System</font></a></li>
+                          <li><i class="pe-7s-angle-right"></i><a href="https://www.moh.go.tz"><font color="black">Wizara ya Afya</font></a></li>
+                          <li><i class="pe-7s-angle-right"></i><a href="https://www.tanzania.go.tz"><font color="black">Tovuti ya Serikali</font></a></li>
+                          <li><i class="pe-7s-angle-right"></i><a href="https://www.mnh.or.tz"><font color="black">Hospitali ya Taifa</font></a></li>
+                          <li><i class="pe-7s-angle-right"></i><a href="https://nhif.or.tz"><font color="black">Mfuko wa Bima (NHIF)</font></a></li>
+                          <li><i class="pe-7s-angle-right"></i><a href="https://www.who.int"><font color="black">Shirika la Afya Duniani</font></a></li>
+                          <li><i class="pe-7s-angle-right"></i><a href="https://arushacc.go.tz"><font color="black">Halmashauri ya jiji Arusha</font></a></li>
+                          <li><i class="pe-7s-angle-right"></i><a href="https://play.google.com/store/apps/details?id=org.smartregister.chw.moh.hf">KITUONI App</font></a></li>
+                          <li><i class="pe-7s-angle-right"></i><a href="https://www.mct.go.tz"><font color="black">Medical Council of Tanganyika</font></a></li>
+                         
+                    
+                        </ul>
+                      </div>
                     </div>
-                     
-                        
+                    <div class="col-md-3">
+                      <div class="footer-item">
+                        <div class="footer-title">
+                          <h4>Nyaraka Mtandao</h4>
+                          <div class="border-style-2"></div>
+                        </div>
+                        <ul class="footer-list border-deshed color-icon">
+                          <li><i class="pe-7s-angle-right"></i><a href="extraduty.pdf"><font color="black">Fomu Masaa ya Ziada</font></a></li>
+                          <li><i class="pe-7s-angle-right"></i><a href="kibalinjeyajiji.pdf"><font color="black">Kibali cha Safari</font></a></li>
+                       
+                          <li><i class="pe-7s-angle-right"></i><a href="allowanceform.pdf"><font color="black">Allowance Fomu</font></a></li>
+                          <li><i class="pe-7s-angle-right"></i><a href="bincard.pdf"><font color="black">BIN Kadi</font></a></li>
+                          <li><i class="pe-7s-angle-right"></i><a href="issuevoucher.pdf"><font color="black">Issue Vocha</font></a></li>
+                          <li><i class="pe-7s-angle-right"></i><a href="mtuha.pdf"><font color="black">MTUHA</font></a></li>
+                          <li><i class="pe-7s-angle-right"></i><a href="maadili.pdf"><font color="black">Maadili Mtumishi wa Umma</font></a></li>
+                          <li><i class="pe-7s-angle-right"></i><a href="arushacityhospitalictpolicy.pdf"><font color="black">Sera ya TEHAMA</font></a></li>
+                          <li><i class="pe-7s-angle-right"></i><a href="matibabuform.pdf"><font color="black">Fomu ya Matibabu</font></a></li>
+                          <li><i class="pe-7s-angle-right"></i><a href="nhifnewmember.pdf"><font color="black">Fomu Usajili [NHIF]</font></a></li>
+                         
+                          <li><i class="pe-7s-angle-right"></i><a href="nhifstudent.pdf"><font color="black">Fomu Usajili NHIF [Mwanafunzi]</font></li>
+                   
+                          <li><i class="pe-7s-angle-right"></i><a href="nhifmstaafu.pdf"><font color="black">Fomu Usajili NHIF [Mstaafu]</font></a></li>
+                       
+                       
+                        </ul>
+                      </div>
 
-
-
+                    </div>
+                    <div class="col-md-3">
+                      <div class="footer-item">
+                        <div class="footer-item clearfix">
+                          <div class="footer-title">
+                            <h4>Jamhuri ya Muungano TANZANIA</h4>
+                            <div class="border-style-1"></div>
+                          </div>
+                          <div class="flicker-feed gutter">
+                            <div align="center">
+                                <img src="img/coat.png" alt="coat" style="width:30%">
+                            </div>
+                        </div>
+                        </div>
+                      </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-</div>
-<!-- Footer End -->
+    </footer>
 
-<!-- Copyright Start -->
-<div class="container-fluid copyright text-body py-4">
-    <div class="container">
-        <div class="row g-4 align-items-center">
-            <div class="col-md-6 text-center text-md-end mb-md-0">
-                <i class="fas fa-copyright me-2"></i><a class="text-white" href="#">2024</a>, Hospitali ya Arusha Jiji.
-            </div>
-            <div class="col-md-6 text-center text-md-start">
-                <!--/*** This template is free as long as you keep the below author’s credit link/attribution link/backlink. ***/-->
-                <!--/*** If you'd like to use the template without the below author’s credit link/attribution link/backlink, ***/-->
-                <!--/*** you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". ***/-->
-                Mfumo Umetengenezwa na Kuratibiwa na <a class="text-white" href="https://fmpiza.github.io/webfridolin">KITENGO CHA TEHAMA</a>
-            </div>
-            </div>
+    <section class="footer-copy-right bg-f9">
+      <div class="container">
+        <div class="row">
+          <div class="col-12 text-center">
+            <p><font color="black">Haki Miliki @ 2025, HOSPITALI YA JIJI ARUSHA. Umetengenezwa na Kusimamiwa na</font> <a target="_blank" href="https://fmpiza.github.io/webfridolin">Kitengo cha TEHAMA</a></p>
+          </div>
         </div>
-    </div>
-</div>
-<!-- Copyright End -->
+      </div>
+    </section>
+    <!-- Footer Style End -->
 
-<!-- Back to Top -->
-<a href="#" class="btn btn-primary btn-primary-outline-0 btn-md-square back-to-top"><i class="fa fa-arrow-up"></i></a>   
+  
+    <a href="#" class="scrollup"><i class="pe-7s-up-arrow" aria-hidden="true"></i></a>
+    <!-- jQuery -->
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+    <!-- all plugins and JavaScript -->
+    <script type="text/javascript" src="js/bootstrap-datepicker.min.js"></script>
+    <script type="text/javascript" src="js/css3-animate-it.js"></script>
+    <script type="text/javascript" src="js/bootstrap-dropdownhover.min.js"></script>
+    <script type="text/javascript" src="js/owl.carousel.min.js"></script>
+    <script type="text/javascript" src="js/gallery.js"></script>
+    <script type="text/javascript" src="js/player.min.js"></script>
+    <script type="text/javascript" src="js/retina.js"></script>
+    <script type="text/javascript" src="js/comming-soon.js"></script>
+
+    <!-- Main Custom JS -->
+    <script type="text/javascript" src="js/script.js"></script>
 
 
-<!-- JavaScript Libraries -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-<script src="lib/easing/easing.min.js"></script>
-<script src="lib/waypoints/waypoints.min.js"></script>
-<script src="lib/owlcarousel/owl.carousel.min.js"></script>
-<script src="lib/lightbox/js/lightbox.min.js"></script>
-
-
-<!-- Template Javascript -->
-<script src="js/main.js"></script>
 </body>
 
+
+
 </html>
+
