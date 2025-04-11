@@ -40,9 +40,14 @@
         <div class="container padding-none">
             <div class="row">
                 <div class="col-md-8 col-sm-6 welcome-top">
-                    <ul class="list-inline top-icon">
-                        <li><i class="fa fa-envelope"></i> ach@arushacc.go.tz</li>
-                        <li><i class="fa fa-clock-o"></i> (+255) 682 136 704</li>
+                <ul class="list-inline top-icon">
+                        <li><a href="mailto: ach@arushacc.go.tz"><font color="white"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-arrow-down-fill" viewBox="0 0 16 16">
+                            <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414zM0 4.697v7.104l5.803-3.558zm.192 8.159 6.57-4.027L8 9.586l1.239-.757.367.225A4.49 4.49 0 0 0 8 12.5c0 .526.09 1.03.256 1.5H2a2 2 0 0 1-1.808-1.144M16 4.697v4.974A4.5 4.5 0 0 0 12.5 8a4.5 4.5 0 0 0-1.965.45l-.338-.207z"/>
+                            <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7m.354-1.646a.5.5 0 0 1-.722-.016l-1.149-1.25a.5.5 0 1 1 .737-.676l.28.305V11a.5.5 0 0 1 1 0v1.793l.396-.397a.5.5 0 0 1 .708.708z"/>
+                          </svg> ach@arushacc.go.tz</font></a></li>
+                        <li><a href="tel:+255-682-136704"><font color="white"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-telephone" viewBox="0 0 16 16">
+                            <path d="M3.654 1.328a.678.678 0 0 0-1.015-.063L1.605 2.3c-.483.484-.661 1.169-.45 1.77a17.6 17.6 0 0 0 4.168 6.608 17.6 17.6 0 0 0 6.608 4.168c.601.211 1.286.033 1.77-.45l1.034-1.034a.678.678 0 0 0-.063-1.015l-2.307-1.794a.68.68 0 0 0-.58-.122l-2.19.547a1.75 1.75 0 0 1-1.657-.459L5.482 8.062a1.75 1.75 0 0 1-.46-1.657l.548-2.19a.68.68 0 0 0-.122-.58zM1.884.511a1.745 1.745 0 0 1 2.612.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.68.68 0 0 0 .178.643l2.457 2.457a.68.68 0 0 0 .644.178l2.189-.547a1.75 1.75 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.6 18.6 0 0 1-7.01-4.42 18.6 18.6 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877z"/>
+                          </svg> (+255) 682 136 704</font></a></li>
                     </ul>
                 </div>
                 <div class="col-md-4 col-sm-6">
@@ -74,12 +79,7 @@
                 <div class="col-md-12">
                     <nav class="navbar navbar-default">
                         <div class="navbar-header">
-                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-                                <span class="sr-only">Toggle navigation</span>
-                                <span class="icon-bar"></span>
-                                <span class="icon-bar"></span>
-                                <span class="icon-bar"></span>
-                            </button>
+                           
                             <a class="navbar-brand dis-none" href="index.html">  <h1 class="m-0"><i class="fa fa-map-marker-alt me-3"></i><font size=4 color="black">Arusha City Hospital</font></h1>
                                 <!-- <img src="img/logo.png" alt="Logo"> -->
                                 </a>
@@ -88,137 +88,141 @@
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" data-hover="dropdown" data-animations-delay="1.8s" data-animations="fadeInUp">
                             <ul class="nav navbar-nav bg-none navbar-right style-3">
                                 <li class="dropdown active">
-                                    <a href="index.html"><font color="black"><b>Home</b></font></a>
+                                    <a href="index.html"><font color="#00B092"><b>Home</b></font></a>
                                    
                                 </li>
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Depertment"><font color="black"><b>Services</b></font>
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Depertment"><font color="#00B092"><b>Services</b></font>
                                        </span></a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="depertment-4.html">Radiology Service</a>
+                                        <li><a href="depertment-4.html"><font color="black">Radiology Service</font></a>
                                         </li>
-                                        <li><a href="physiotherapy.html">Physiotherapy Service</a>
+                                        <li><a href="physiotherapy.html"><font color="black">Physiotherapy Service</font></a>
                                         </li>
-                                        <li><a href="dental.html">Dental Clinic Service</a>
+                                        <li><a href="dental.html"><font color="black">Dental Clinic Service</font></a>
                                         </li>
-                                        <li><a href="eye.html">Eye Clinic Service</a>
+                                        <li><a href="eye.html"><font color="black">Eye Clinic Service</font></a>
                                         </li>
-                                        <li><a href="consultation.html">Consultation Service</a>
+                                        <li><a href="consultation.html"><font color="black">Consultation Service</font></a>
                                         </li>
-                                        <li><a href="surgery.html">Surgery Service</a>
+                                        <li><a href="surgery.html"><font color="black">Surgery Service</font></a>
                                         </li>
-                                        <li><a href="labor.html">Labor Ward Service</a>
+                                        <li><a href="labor.html"><font color="black">Labor Ward Service</font></a>
                                         </li>
-                                        <li><a href="delivery.html">Delivery Service Service</a>
+                                        <li><a href="delivery.html"><font color="black">Delivery Service Service</font></a>
                                         </li>
-                                        <li><a href="nutrition.html">Nutrition Service</a>
+                                        <li><a href="nutrition.html"><font color="black">Nutrition Service</font></a>
                                         </li>
-                                        <li><a href="ent.html">ENT Service</a>
+                                        <li><a href="ent.html"><font color="black">ENT Service</font></a>
                                         </li>
-                                        <li><a href="patientward.html">Patient Ward Booking Service</a>
+                                        <li><a href="patientward.html"><font color="black">Patient Ward Booking Service</font></a>
                                         </li>
                                         
                                         
                                     </ul>
                                 </li>
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Pages"><font color="black"><b>Directories</b></font> 
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Pages"><font color="#00B092"><b>Directories</b></font> 
                                         </span></a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="management.html">Management Unit </a>
+                                        <li><a href="management.html"><font color="black">Management Unit</font> </a>
                                         </li>
-                                        <li><a href="finance.html">Finance and Planning Unit</a>
+                                        <li><a href="finance.html"><font color="black">Finance and Planning Unit</font></a>
                                         </li>
-                                        <li><a href="ict.html">ICT Unit</a>
+                                        <li><a href="ict.html"><font color="black">ICT Unit</font></a>
                                         </li>
-                                        <li><a href="laboratory.html">Laboratory Unit</a>
+                                        <li><a href="laboratory.html"><font color="black">Laboratory Unit</font></a>
                                         </li>
-                                        <li><a href="opd.html">Out-Patient Unit</a>
+                                        <li><a href="opd.html"><font color="black">Out-Patient Unit</font></a>
                                         </li>
-                                        <li><a href="ipd.html">In- Patient Unit</a>
+                                        <li><a href="ipd.html"><font color="black">In- Patient Unit</font></a>
                                         </li>
-                                        <li><a href="laborward.html">Labor Ward Unit</a>
+                                        <li><a href="laborward.html"><font color="black">Labor Ward Unit</font></a>
                                         </li>
-                                        <li><a href="rch.html">RCH Unit</a>
+                                        <li><a href="rch.html"><font color="black">RCH Unit</font></a>
                                         </li>
-                                        <li><a href="eyedepartment.html">Eye Unit</a>
+                                        <li><a href="eyedepartment.html"><font color="black">Eye Unit</font></a>
                                         </li>
-                                        <li><a href="dentaldepartment.html">Dental Unit</a>
+                                        <li><a href="dentaldepartment.html"><font color="black">Dental Unit</font></a>
                                         </li>
-                                        <li><a href="pharmacy.html">Pharmacy Unit</a>
+                                        <li><a href="pharmacy.html"><font color="black">Pharmacy Unit</font></a>
                                         </li>
-                                        <li><a href="theatre.html">Theatre Unit</a>
+                                        <li><a href="theatre.html"><font color="black">Theatre Unit</font></a>
                                         </li>
-                                        <li><a href="physiotherapydepartment.html">Physiotherapy Unit</a>
+                                        <li><a href="physiotherapydepartment.html"><font color="black">Physiotherapy Unit</font></a>
                                         </li>
-                                        <li><a href="radiologydepartment.html">Radiology Unit</a>
+                                        <li><a href="radiologydepartment.html"><font color="black">Radiology Unit</font></a>
                                         </li>
                                         
                                     </ul>
                                 </li>
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> <span data-hover="Doctors"><font color="black"><b>Resources</b></font> 
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> <span data-hover="Doctors"><font color="#00B092"><b>Resources</b></font> 
                                        </span></a>
                                     <ul class="dropdown-menu">
                                         
-                                        <li><a href="team-col-4.html">New Vacancies</a>
+                                        <li><a href="team-col-4.html"><font color="black">New Vacancies</font></a>
                                         </li>
                                         
-                                        <li><a href="team-details.html">Tenders</a></li>
-                                            <li><a href="depertment-3.html">News</a></li>
-                                                <li><a href="depertment-1.html">Documents</a></li>
-                                                    <li><a href="department.html">Departmental Reports</a></li>
-                                                        <li><a href="depertment-6.html">Photo Gallery</a></li>
+                                        <li><a href="team-details.html"><font color="black">Tenders</font></a></li>
+                                            <li><a href="depertment-3.html"><font color="black">News</font></a></li>
+                                                <li><a href="depertment-1.html"><font color="black">Documents</font></a></li>
+                                                    <li><a href="department.html"><font color="black">Departmental Reports</font></a></li>
+                                                        <li><a href="depertment-6.html"><font color="black">Photo Gallery</font></a></li>
 
                                        
                                     </ul>
                                 </li>
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Portfolio"><font color="black"><b>Social Welfare</b></font> 
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Portfolio"><font color="#00B092"><b>Social Welfare</b></font> 
                                        </span></a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="shop-grid.html">Cash Payment</a>
-                                        </li>   
-                                        <li><a href="shop-grid.html">CHF Insurance</a>
-                                        </li>
-                                        <li><a href="shop-grid.html">NHIF Insurance</a>
-                                        </li>
-                                        <li><a href="shop-grid.html">Exemptions</a>
-                                        </li>
-                                    </ul>
+                                       <ul class="dropdown-menu">
+                                            <li><a href="shop-grid.html"><font color="black">Cash Payment</font></a>
+                                            </li>   
+                                            <li><a href="shop-grid.html"><font color="black">CHF Insurance</font></a>
+                                            </li>
+                                            <li><a href="shop-grid.html"><font color="black">NHIF Insurance</font></a>
+                                            </li>
+                                            <li><a href="shop-grid.html"><font color="black">Exemptions</font></a>
+                                            </li>
+                                            <li><a href="suggestions.html"><font color="black">Suggestions</font></a>
+                                            </li>
+                                            <li><a href="https://wa.me/255718141748"><font color="black">Chat with SWO</font></a>
+                                            </li>
+                                        </ul>
                                 </li>
                                 
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Blog"><font color="black"><b>ICT Services</b></font> 
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Blog"><font color="#00B092"><b>ICT Services</b></font> 
                                        </span></a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="https://gothomis.tamisemi.go.tz/#/auth">GoT-HoMIS</a>
+                                        <li><a href="https://gothomis.tamisemi.go.tz/#/auth"><font color="black">GoT-HoMIS</font></a>
                                         </li>
-                                        <li><a href="https://ess.utumishi.go.tz">PEPMIS System</a>
+                                        <li><a href="https://ess.utumishi.go.tz"><font color="black">PEPMIS System</font></a>
                                         </li>
-                                        <li><a href="https://mail.arushacc.go.tz/">Staff Mails</a>
+                                        <li><a href="https://mail.arushacc.go.tz/"><font color="black">Staff Mails</font></a>
                                         </li>
-                                        <li><a href="https://play.google.com/store/apps/details?id=org.smartregister.chw.moh.hf">Kituoni App</a>
+                                        <li><a href="https://play.google.com/store/apps/details?id=org.smartregister.chw.moh.hf"><font color="black">Kituoni App</font></a>
                                         </li>
-                                        <li><a href="blog-right.html">Hardware Issues</a>
+                                        <li><a href="blog-right.html"><font color="black">Hardware Issues</font></a>
                                         </li>
-                                        <li><a href="blog-left.html">Network Issues</a>
+                                        <li><a href="blog-left.html"><font color="black">Network Issues</font></a>
                                         </li>
-                                        <li><a href="blog-center.html">Software Issues</a>
+                                        <li><a href="blog-center.html"><font color="black">Software Issues</font></a>
                                         </li>
-                                        <li><a href="contact-style-1.html">Technical Support</a>
-                                            <li><a href="contact-style-2.html">Field Student Registration</a>
+                                        <li><a href="contact-style-1.html"><font color="black">Technical Support</font></a>
+                                            <li><a href="contact-style-2.html"><font color="black">Field Student Registration</font></a>
                                         </li>
                                         </li>
                                     </ul>
                                 </li>
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Contact"><font color="black"><b>Change Language</b></font>
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Contact"><font color="#00B092"><b>Change Language</b></font>
                                          </span></a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="doctorappointment1.php">Swahili</a>
+                                        <li><a href="doctorappointment1.php"><font color="black">Swahili</font></a>
                                         </li>
-                                        <li><a href="doctorappointment.php">English</a>
+                                        <li><a href="doctorappointment.php"><font color="black">English</font></a>
                                         </li>
                                     </ul>
                                 </li>
@@ -328,50 +332,56 @@
         </div>
         <!-- Travel Guide End -->
 
-       <!-- divider start -->
-    <section class="service-area over-layer-default" style="background-image:url(img/bg/5.jpg);">
-        <div class="container padding-bottom-none padding-top-40">
-            <div class="section-content">
-                <div class="row">
-                    <div class="col-sm-12 col-md-4">
-                        <div class="service-item style-1 text-white border-right">
-                            <div class="service-icon">
-                                <i class="pe-7s-call"></i>
-                            </div>
-                            <div class="content">
-                                <h5><a href="#">Make Us a Call</a></h5>
-                                <p>(+255) 682 136 704</p>
-                            </div>
+      <!-- divider start -->
+   <section class="service-area over-layer-default" style="background-image:url(img/bg/5.jpg);">
+    <div class="container padding-bottom-none padding-top-40">
+        <div class="section-content">
+            <div class="row">
+                <div class="col-sm-12 col-md-4">
+                    <div class="service-item style-1 text-white border-right">
+                        <div class="service-icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-telephone" viewBox="0 0 16 16">
+                                <path d="M3.654 1.328a.678.678 0 0 0-1.015-.063L1.605 2.3c-.483.484-.661 1.169-.45 1.77a17.6 17.6 0 0 0 4.168 6.608 17.6 17.6 0 0 0 6.608 4.168c.601.211 1.286.033 1.77-.45l1.034-1.034a.678.678 0 0 0-.063-1.015l-2.307-1.794a.68.68 0 0 0-.58-.122l-2.19.547a1.75 1.75 0 0 1-1.657-.459L5.482 8.062a1.75 1.75 0 0 1-.46-1.657l.548-2.19a.68.68 0 0 0-.122-.58zM1.884.511a1.745 1.745 0 0 1 2.612.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.68.68 0 0 0 .178.643l2.457 2.457a.68.68 0 0 0 .644.178l2.189-.547a1.75 1.75 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.6 18.6 0 0 1-7.01-4.42 18.6 18.6 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877z"/>
+                              </svg>
+                        </div>
+                        <div class="content">
+                            <h5><a href="#">Make Us a Call</a></h5>
+                            <p><font color="white">(+255) 682 136 704</font></p>
                         </div>
                     </div>
-                    <div class="col-sm-12 col-md-4">
-                        <div class="service-item style-1 text-white border-right">
-                            <div class="">
-                                <i class="pe-7s-mail-open"></i>
-                            </div>
-                            <div class="content">
-                                <h5><a href="#">Send us a Message</a></h5>
-                                <p>ach@arushacc.go.tz</p>
-                            </div>
+                </div>
+                <div class="col-sm-12 col-md-4">
+                    <div class="service-item style-1 text-white border-right">
+                        <div class="">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-envelope-arrow-down" viewBox="0 0 16 16">
+                                <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v4.5a.5.5 0 0 1-1 0V5.383l-7 4.2-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h5.5a.5.5 0 0 1 0 1H2a2 2 0 0 1-2-1.99zm1 7.105 4.708-2.897L1 5.383zM1 4v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1"/>
+                                <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7m.354-1.646a.5.5 0 0 1-.722-.016l-1.149-1.25a.5.5 0 1 1 .737-.676l.28.305V11a.5.5 0 0 1 1 0v1.793l.396-.397a.5.5 0 0 1 .708.708z"/>
+                              </svg>
+                        </div>
+                        <div class="content">
+                            <h5><a href="#">Send us a Message</a></h5>
+                            <p><font color="white">ach@arushacc.go.tz</font></p>
                         </div>
                     </div>
-                    <div class="col-sm-12 col-md-4">
-                        <div class="service-item style-1 text-white">
-                            <div class="">
-                                <i class="pe-7s-map-marker"></i>
-                            </div>
-                            <div class="content">
-                                <h5><a href="#">Visit our Location</a></h5>
-                                <p>Njiro, Contenna. P.o.Box 3013 Arusha. TANZANIA </p>
-                            </div>
+                </div>
+                <div class="col-sm-12 col-md-4">
+                    <div class="service-item style-1 text-white">
+                        <div class="">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-geo-alt-fill" viewBox="0 0 16 16">
+                                <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10m0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6"/>
+                              </svg>
+                        </div>
+                        <div class="content">
+                            <h5><a href="#">Visit our Location</a></h5>
+                            <p><font color="white">Njiro, Contenna. P.o.Box 3013 Arusha. TANZANIA</font> </p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
-    <!-- divider end -->
-    
+    </div>
+</section>
+<!-- divider end -->
   <!-- Footer Style start -->
   <footer class="bg-faded">
     <div class="container">
@@ -380,13 +390,20 @@
                 <div class="col-md-3">
                   <div class="footer-item footer-widget-one">
                 <p><h4>Contacts </h4></p>
-                                       <ul class="address">
-                        <li>  <a href=""><i class="fa fa-map-marker-alt me-3"></i> <font size=2>Njiro, Contenna. P.o.Box 3013 Arusha, TANZANIA</font></a></li>
-                        <li> <a href="mailto: ach@arushacc.go.tz"><i class="fas fa-envelope me-2"></i> <font size=2>ach@arushacc.go.tz</font></a></li>
-                        <li>  <a href="tel:+255-682-136704"><i class="fas fa-phone me-2"></i> <font size=2>(+255) 682 136 704</font></a>
+                <ul class="address">
+                        <li> <a href=""> <font size=2><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-geo-alt-fill" viewBox="0 0 16 16">
+                            <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10m0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6"/>
+                          </svg>  Njiro, Contenna. P.o.Box 3013 Arusha, TANZANIA</font></a></li>
+                        <li> <a href="mailto: ach@arushacc.go.tz"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-envelope-arrow-down" viewBox="0 0 16 16">
+                            <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v4.5a.5.5 0 0 1-1 0V5.383l-7 4.2-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h5.5a.5.5 0 0 1 0 1H2a2 2 0 0 1-2-1.99zm1 7.105 4.708-2.897L1 5.383zM1 4v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1"/>
+                            <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7m.354-1.646a.5.5 0 0 1-.722-.016l-1.149-1.25a.5.5 0 1 1 .737-.676l.28.305V11a.5.5 0 0 1 1 0v1.793l.396-.397a.5.5 0 0 1 .708.708z"/>
+                          </svg> <font size=2>ach@arushacc.go.tz</font></a></li>
+                        <li>  <a href="tel:+255-682-136704"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-telephone" viewBox="0 0 16 16">
+                            <path d="M3.654 1.328a.678.678 0 0 0-1.015-.063L1.605 2.3c-.483.484-.661 1.169-.45 1.77a17.6 17.6 0 0 0 4.168 6.608 17.6 17.6 0 0 0 6.608 4.168c.601.211 1.286.033 1.77-.45l1.034-1.034a.678.678 0 0 0-.063-1.015l-2.307-1.794a.68.68 0 0 0-.58-.122l-2.19.547a1.75 1.75 0 0 1-1.657-.459L5.482 8.062a1.75 1.75 0 0 1-.46-1.657l.548-2.19a.68.68 0 0 0-.122-.58zM1.884.511a1.745 1.745 0 0 1 2.612.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.68.68 0 0 0 .178.643l2.457 2.457a.68.68 0 0 0 .644.178l2.189-.547a1.75 1.75 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.6 18.6 0 0 1-7.01-4.42 18.6 18.6 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877z"/>
+                          </svg> (+255) 682 136 704</font></a>
                         </li>
                       
-                    </ul>
+                    </ul> 
                       
                       <hr>
                       <ul class="social-icon bg-theme">
