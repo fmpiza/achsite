@@ -93,12 +93,12 @@
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" data-hover="dropdown" data-animations-delay="1.8s" data-animations="fadeInUp">
                             <ul class="nav navbar-nav bg-none navbar-right style-3">
                                 <li class="dropdown active">
-                                    <a href="index1.html"><font color="black"><b>Nyumbani</b></font></a>
+                                    <a href="index1.html"><font color="#00B092"><b>Nyumbani</b></font></a>
                                    
                                 </li>
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Depertment"><font color="black"><b>Huduma</b></font>
-                                       </span></a>
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Depertment"><font color="#00B092"><b>Huduma</b></font>
+                                      </span></a>
                                     <ul class="dropdown-menu">
                                         <li><a href="depertment-4copy.html">Huduma Mionzi</a>
                                         </li>
@@ -127,8 +127,8 @@
                                     </ul>
                                 </li>
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Pages"><font color="black"><b>Vitengo</b></font> 
-                                       </span></a>
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Pages"><font color="#00B092"><b>Vitengo</b></font>
+                                        </span></a>
                                     <ul class="dropdown-menu">
                                         <li><a href="management1.html">Uongozi </a>
                                         </li>
@@ -162,7 +162,7 @@
                                     </ul>
                                 </li>
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> <span data-hover="Doctors"><font color="black"><b>Viambata</b></font> 
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> <span data-hover="Doctors"><font color="#00B092"><b>Viambata</b></font>
                                         </span></a>
                                     <ul class="dropdown-menu">
                                         
@@ -178,23 +178,28 @@
                                     </ul>
                                 </li>
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Portfolio"><font color="black"><b>Ustawi wa Jamii</b></font>
-                                         </span></a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="shop-grid1.html">Malipo Papohapo</a>
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Portfolio"><font color="#00B092"><b>Ustawi wa Jamii</b></font> 
+                                       </span></a>
+                                       <ul class="dropdown-menu">
+                                        <li><a href="shop-grid1.html"><font color="black">Malipo Papohapo</font></a>
                                         </li>   
-                                        <li><a href="shop-grid1.html">Bima CHF</a>
+                                        <li><a href="shop-grid1.html"><font color="black">Bima CHF</font></a>
                                         </li>
-                                        <li><a href="shop-grid1.html">Bima NHIF</a>
+                                        <li><a href="shop-grid1.html"><font color="black">Bima NHIF</font></a>
                                         </li>
-                                        <li><a href="shop-grid1.html">Msamaha</a>
+                                        <li><a href="shop-grid1.html"><font color="black">Msamaha</font></a>
+                                        </li>
+                                        <li><a href="suggestions1.html"><font color="black">Maoni</font></a>
+                                        </li>
+                                        <li><a href="https://wa.me/255718141748"><font color="black">Ujumbe kwa Mtaalamu</font></a>
                                         </li>
                                     </ul>
                                 </li>
+                                </li>
                                 
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Blog"><font color="black"><b>Huduma TEHAMA</b></font> 
-                                        </span></a>
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Blog"><font color="#00B092"><b>Huduma TEHAMA</b></font> 
+                                       </span></a>
                                     <ul class="dropdown-menu">
                                         <li><a href="https://gothomis.tamisemi.go.tz/#/auth">GoT-HoMIS</a>
                                         </li>
@@ -217,12 +222,12 @@
                                     </ul>
                                 </li>
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Contact"><font color="black"><b>Badili Lugha</b></font> 
-                                       </span></a>
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Contact"><font color="#00B092"><b>Badili Lugha</b></font>
+                                        </span></a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="shop-grid1.html">Swahili</a>
+                                        <li><a href="phpSearch1.php">Swahili</a>
                                         </li>
-                                        <li><a href="shop-grid.html">English</a>
+                                        <li><a href="phpSearch.php">English</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -245,7 +250,6 @@
                                             <button type="button" class="btn dropdown-toggle" id="header-drop-4" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><font color="black"><i class="fa fa-map-marker-alt me-3"></i></font><span class="menu-cart"><font color="white"><i class="fa fa-map-marker-alt me-3"></i></font></span></button>
                                             <ul class="dropdown-menu dropdown-menu-right cart dropdown-animation" aria-labelledby="header-drop-4">
                                                 <li>
-                                                           
                                                     <table class="table table-hover">
                                                         <thead>
                                                             <tr>
@@ -281,370 +285,601 @@
     </div>
     <!-- Header navbar end -->
 
+
     <section class="inner-bg over-layer-black" style="background-image: url('img/bg/fridge.JPG')">
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
                     <div class="mini-title inner-style-2">
-                        <h4><font color="black">Masuala ya Ustawi wa Jamii</font> </h4>
+                        <h4><font color="black">Huduma</font> </h4>
                         
                     </div>
                 </div>
             </div>
         </div>
     </section>
+    
 
-    <section class="shop-area">
+    <!-- Blog Posts -->
+    <div class="blog-inner-section bg-f8">
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
                     <div class="blog-sideber">
-                        <div class="widget clearfix">
-                            <div class="blog-search">
-                                <form action="#" class="clearfix">
-                                    <input type="search" placeholder="Search Here..">
-                                    <button type="submit">
-                                        <span class="pe-7s-search"></span>
-                                    </button>
-                                </form>
-                            </div>
+                        <div class="widget">
+                           
                         </div>
                         <div class="widget clearfix">
                             <div class="sideber-title">
-                                <h4>Malipo ya Papohapo</h4>
+                                <h4>Mpya</h4>
                             </div>
-                            
-                        </div>
-                        
-                          
-                        <div class="widget clearfix">
-                            <div class="sideber-title">
-                                <h4>Bima</h4>
-                            </div>
-                            <div class="sideber-content">
-                                <ul>
-                                  <li> <a href="nhifmstaafu.pdf"><i class="fa fa-angle-right"></i>  <font color="black">NHIF (Mstaafu)</font></a> </li>
-                                  <li> <a href="nhifstudent.pdf"><i class="fa fa-angle-right"></i>  <font color="black">NHIF (Student)</font></a> </li>
-                                  <li> <a href="nhifnewmember.pdf"><i class="fa fa-angle-right"></i>  <font color="black">Usajili NHIF</font> </a> </li>
-                                  <li> <a href="chfmstaafu.pdf"><i class="fa fa-angle-right"></i>  <font color="black">CHF (Mstaafu)</font></a> </li>
-                                  <li> <a href="chfstudent.pdf"><i class="fa fa-angle-right"></i>  <font color="black">CHF (Student)</font></a> </li>
-                                  <li> <a href="chfnewmember.pdf"><i class="fa fa-angle-right"></i>  <font color="black">Usajili CHF</font></a> </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="widget clearfix">
-                            <div class="sideber-title">
-                                <h4>Msamaha</h4>
-                            </div>
-                            <div class="sideber-content">
-                                <ul>
-                                  <li> <a href="gbv.pdf"><i class="fa fa-caret-right"></i>  <font color="black">Masuala ya GBV</font></a> </li>
-                                  <li> <a href="chronic.pdf"><i class="fa fa-caret-right"></i>  <font color="black">Magonjwa Sugu</font></a> </li>
-                                  <li> <a href="60form.pdf"><i class="fa fa-caret-right"></i>  <font color="black">Miaka Zaidi ya 60</font></a> </li>
-                                  <li> <a href="privilege.pdf"><i class="fa fa-caret-right"></i>  <font color="black">Wenye Vipaumbele</font></a> </li>
-                                 
-                                </ul>
-                            </div>
-                        </div>
-                       
-                    </div>
-                </div>
-                <div class="col-md-9">
-                    <div class="shop-right-area">
-                       
-                        <div class="shop-tab-area">
-                            <!--NAV PILL-->
-                            <div class="shop-tab-pill">
-                                <ul>
-                                    <li class="active" id="p-mar">
-                                        <a data-toggle="pill" href="#grid">
-                                            <i class="fa fa-th" aria-hidden="true"></i>
-                                            <span>Malipo ya Papohapo</span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a data-toggle="pill" href="#list">
-                                            <i class="fa fa-th-list" aria-hidden="true"></i>
-                                            <span>Msamaha</span>
-                                        </a>
-                                    </li>
-                                    <li class="product-size-deatils">
-                                        <div class="show-label">
-                                            <label>Onesha : </label>
-                                            <select>
-                                                <option value="10" selected="selected">10</option>
-                                                <option value="09">09</option>
-                                                <option value="08">08</option>
-                                                <option value="07">07</option>
-                                                <option value="06">06</option>
-                                            </select>
-                                        </div>
-                                    </li>
-                                    
-                                </ul>
-                            </div>
-                            <!--NAV PILL-->
-                            <div class="tab-content">
-                                <div class="row tab-pane active" id="grid">
-                                    
-                                                   
-                                               
-                                    
-                                    <div class="col-md-4 col-sm-4">
-                                        <div class="product-item">
-                                            <div class="product-image">
-                                                <a class="product-img" href="#">
-                                                    <img class="primary-img" src="img/shop/gbvcase.JPG" alt="" />
-                                              
-                                                </a>
-                                            </div>
-                                           
-                                            <div class="product-action">
-                                                <h4><a href="#"><b><font color="black">Masuala ya GBV</font></b></a></h4>
-                                                
-                                                
-                                                <span class="price">Msamaha</span>
-                                            </div>
-                                            <div class="pro-action">
-                                                <ul>
-                                                    <li>
-                                                        <a href="#">
-                                                        <i class="fa fa-retweet" aria-hidden="true"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#">
-                                                        <i class="fa fa-heart" aria-hidden="true"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a class="" href="#">
-                                                            <i class="fa fa-shopping-cart" aria-hidden="true"></i>
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
+                            <div class="sideber-content about">
+                                <div class="testimonial-carousel-one">
+                                    <div class="item">
+                                        <p><i class="fa fa-quote-left"></i>
+                                            <font color="black">Hospitali ya Jiji Arusha inatoa huduma bora kwa wagonjwa wetu
+                                             </font>  <i class="fa fa-quote-right"></i></p>
                                     </div>
-                                    <div class="col-md-4 col-sm-4">
-                                        <div class="product-item">
-                                            <div class="product-image">
-                                                <a class="product-img" href="#">
-                                                    <img class="primary-img" src="img/shop/chroniccase.JPG" alt="" />
-                                                </a>
-                                            </div>
-                                           
-                                            <div class="product-action">
-                                                <h4><a href="#"><b><font color="black">Magonjwa Sugu</font></b></a></h4>
-                                                
-                                                
-                                                <span class="price">Msamaha</span>
-                                            </div>
-                                            <div class="pro-action">
-                                                <ul>
-                                                    <li>
-                                                        <a href="#">
-                                                        <i class="fa fa-retweet" aria-hidden="true"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#">
-                                                        <i class="fa fa-heart" aria-hidden="true"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a class="" href="#">
-                                                            <i class="fa fa-shopping-cart" aria-hidden="true"></i>
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
+                                    <div class="item">
+                                        <p><i class="fa fa-quote-left"></i>
+                                            <font color="black"> Wataalamu wetu wapo kwa ajili ya kuhakikisha Huduma bora inatolewa 
+</font>  <i class="fa fa-quote-right"></i></p>
                                     </div>
-                                    <div class="col-md-4 col-sm-4">
-                                        <div class="product-item">
-                                            <div class="product-image">
-                                                <a class="product-img" href="#">
-                                                    <img class="primary-img" src="img/shop/social.JPG" alt="" />
-                                                </a>
-                                            </div>
-                                            
-                                            <div class="product-action">
-                                                <h4><a href="#"><b><font color="black">Miaka Zaidi ya 60</font></b></a></h4>
-                                                
-                                                
-                                                <span class="price">Msamaha</span>
-                                            </div>
-                                            <div class="pro-action">
-                                                <ul>
-                                                    <li>
-                                                        <a href="#">
-                                                        <i class="fa fa-retweet" aria-hidden="true"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#">
-                                                        <i class="fa fa-heart" aria-hidden="true"></i>
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a class="" href="#">
-                                                            <i class="fa fa-shopping-cart" aria-hidden="true"></i>
-                                                        </a>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                   
-                                           
-                                           
-                                           
-                               
-                                <div id="list" class="tab-pane">
-                                    <div class="row">
-                                        <div class="col-md-12">
-                                            <div class="shop-list-single shop-product-item-area">
-                                                <div class="shop-list-left-content">
-                                                   
-                                                    <span class="shop-cart-icon">
-                                                        <a href="#"><i class="fa fa-shopping-bag"></i></a>
-                                                    </span>
-                                                </div>
-                                                <div class="shop-list-right-content">
-                                                    <div class="product-content">
-                                                        <h4><b><font color="black">Wenye Vipaumbele</font></b></h4>
-                                                        
-                                                        <p><b>Msamaha</b></p>
-                                                       
-                                                    </div>
-                                                    <div class="product-details">
-                                                        <p>
-                                                            <font color="black">  Msamaha kwa Wenye Vipaumbele kwa baadhi ya huduma, kulingana sera ya Msamaha kitengo cha Ustawi wa Jamii
-
-                                                           </font>
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-12">
-                                            <div class="shop-list-single shop-product-item-area">
-                                                <div class="shop-list-left-content">
-                                                   
-                                                    <span class="shop-cart-icon">
-                                                       
-                                                    </span>
-                                                </div>
-                                                <div class="shop-list-right-content">
-                                                    <div class="product-content">
-                                                        <h4><b><font color="black">Chini ya Miaka 5</font></b></h4>
-                                                        
-                                                        <p><b>Msamaha</b></p>
-                                                        
-                                                    </div>
-                                                    <div class="product-details">
-                                                        <p>
-                                                            
-                                                            <font color="black">   Msamaha kwa Wenye Miaka 5 kwa baadhi ya huduma, kulingana sera ya Msamaha kitengo cha Ustawi wa Jamii
-</font>
-                                                          </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-12">
-                                            <div class="shop-list-single shop-product-item-area">
-                                                <div class="shop-list-left-content">
-                                                    
-                                                    <span class="shop-cart-icon">
-                                                        <a href="#"><i class="fa fa-shopping-bag"></i></a>
-                                                    </span>
-                                                </div>
-                                                <div class="shop-list-right-content">
-                                                    <div class="product-content">
-                                                        <h4><b><font color="black">Viambata</font></b></h4>
-                                                        
-                                                        <p><b>Msamaha</b></p>
-                                                       
-                                                    </div>
-                                                    <div class="product-details">
-                                                       <p>
-                                                        <ul>
-                                                            <li><b>- <a href="gbvform.pdf"><font color="black">Fomu ya Unyanyasaji (GBV)</font></a></b></li>
-                                                             <li><b>- <a href="exemptionform.pdf"><font color="black">Fomu ya Msamaha</font></a></b></li>
-                                                            
-                                                             <li><b>- <a href="60form.pdf"><font color="black">Fomu Zaidi ya Miaka 60</font></a></b></li>
-                                                        </ul>
-                                                       </p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        
+                                    <div class="item">
+                                                                                <p><i class="fa fa-quote-left"></i> 
+                                            <font color="black">Huduma Masaa 24</font>
+                                            <i class="fa fa-quote-right"></i></p>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+                        
+                                  
 
-     <!-- divider start -->
-     <section class="service-area over-layer-default" style="background-image:url(img/bg/5.jpg);">
-        <div class="container padding-bottom-none padding-top-40">
-            <div class="section-content">
-                <div class="row">
-                    <div class="col-sm-12 col-md-4">
-                        <div class="service-item style-1 text-white border-right">
-                            <div class="service-icon">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-telephone" viewBox="0 0 16 16">
-                                    <path d="M3.654 1.328a.678.678 0 0 0-1.015-.063L1.605 2.3c-.483.484-.661 1.169-.45 1.77a17.6 17.6 0 0 0 4.168 6.608 17.6 17.6 0 0 0 6.608 4.168c.601.211 1.286.033 1.77-.45l1.034-1.034a.678.678 0 0 0-.063-1.015l-2.307-1.794a.68.68 0 0 0-.58-.122l-2.19.547a1.75 1.75 0 0 1-1.657-.459L5.482 8.062a1.75 1.75 0 0 1-.46-1.657l.548-2.19a.68.68 0 0 0-.122-.58zM1.884.511a1.745 1.745 0 0 1 2.612.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.68.68 0 0 0 .178.643l2.457 2.457a.68.68 0 0 0 .644.178l2.189-.547a1.75 1.75 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.6 18.6 0 0 1-7.01-4.42 18.6 18.6 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877z"/>
-                                  </svg>
+                        <div class="widget clearfix">
+                            <div class="sideber-title">
+                                <h4>Taarifa</h4>
                             </div>
-                            <div class="content">
-                                <h5><a href="#">Wasiliana Nasi</a></h5>
-                                <p><font color="white">(+255) 682 136 704</font></p>
+                            <div class="sideber-content">
+                                <ul>
+                                    <li> <a href="xrayservice.pdf"><i class="fa fa-angle-right"></i> <font color="black">Huduma ya X-Ray</font></a> </li>
+                                    <li> <a href="dentalservice.pdf"><i class="fa fa-angle-right"></i><font color="black"> Huduma za Meno</font></a> </li>
+                                    <li> <a href="eyeservice.pdf"><i class="fa fa-angle-right"></i> <font color="black">Huduma za Macho</font></a> </li>
+                                    <li> <a href="socialwelfareservice.pdf"><i class="fa fa-angle-right"></i> <font color="black">Ustawi wa Jamii</font></a> </li>
+                                    
+                                </ul>
                             </div>
                         </div>
+                       
+                        
                     </div>
-                    <div class="col-sm-12 col-md-4">
-                        <div class="service-item style-1 text-white border-right">
-                            <div class="">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-envelope-arrow-down" viewBox="0 0 16 16">
-                                    <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v4.5a.5.5 0 0 1-1 0V5.383l-7 4.2-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h5.5a.5.5 0 0 1 0 1H2a2 2 0 0 1-2-1.99zm1 7.105 4.708-2.897L1 5.383zM1 4v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1"/>
-                                    <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7m.354-1.646a.5.5 0 0 1-.722-.016l-1.149-1.25a.5.5 0 1 1 .737-.676l.28.305V11a.5.5 0 0 1 1 0v1.793l.396-.397a.5.5 0 0 1 .708.708z"/>
-                                  </svg>
-                            </div>
-                            <div class="content">
-                                <h5><a href="#">Tuma Ujumbe</a></h5>
-                                <p><font color="white">ach@arushacc.go.tz</font></p>
-                            </div>
+                </div>
+                <div class="col-md-9">
+                    <div class="blog-item style-1 margin-bottom-30">
+                       
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+							<?php
+
+$search = $_POST['search'];
+
+$servername = "localhost";
+$username = "anthony";
+$password = "88Zamzam";
+$db = "achdb";
+
+$conn = new mysqli($servername, $username, $password, $db);
+
+if ($conn->connect_error){
+	die("Connection failed: ". $conn->connect_error);
+}
+
+$sql = "select * from service where servicename like '%$search%'";
+
+$result = $conn->query($sql);
+
+if ($result->num_rows > 0){
+while($row = $result->fetch_assoc() ){
+	echo $row["servicename"]."<br>";
+}
+} else {
+	echo "0 records";
+}
+
+$conn->close();
+
+?>
+     
+           
                         </div>
                     </div>
-                    <div class="col-sm-12 col-md-4">
-                        <div class="service-item style-1 text-white">
-                            <div class="">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-geo-alt-fill" viewBox="0 0 16 16">
-                                    <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10m0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6"/>
-                                  </svg>
-                            </div>
-                            <div class="content">
-                                <h5><a href="#">Eneo Tulipo</a></h5>
-                                <p><font color="white">Njiro, Contenna. S.L.P 3013 Arusha. TANZANIA</font> </p>
-                            </div>
+                    <div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Huduma ya X-Ray</h4>
+                        <p><font color="black">
+							Huduma bora za X-Ray zinatolewa kwa kutumia wataalamu wetu wenye uzoefu wa kutosha
+
+                        
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Huduma za Matibabu ya Meno</h4>
+                        <p><font color="black">
+                        Huduma bora za Matibabu ya Meno zinatolewa kwa kutumia wataalamu wetu wenye uzoefu wa kutosha
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Huduma ya Maabara</h4>
+                        <p><font color="black">
+                        Huduma bora za Maabara zinatolewa kwa kutumia wataalamu wetu wenye uzoefu wa kutosha
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Huduma ya Kliniki ya Macho</h4>
+                        <p><font color="black">
+                        Huduma bora za Kliniki ya Macho zinatolewa kwa kutumia wataalamu wetu wenye uzoefu wa kutosha
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Huduma ya Ultra Sound</h4>
+                        <p><font color="black">
+                        Huduma bora za Ultra Sound zinatolewa kwa kutumia wataalamu wetu wenye uzoefu wa kutosha
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Huduma za Upasuaji</h4>
+                        <p><font color="black">
+                        Huduma bora za Upasuaji zinatolewa kwa kutumia wataalamu wetu wenye uzoefu wa kutosha
+
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Kliniki ya Macho, Pua na Koo (ENT)</h4>
+                        <p><font color="black">
+                        Huduma bora za Kliniki ya Macho, Pua na Koo (ENT) zinatolewa kwa kutumia wataalamu wetu wenye uzoefu wa kutosha
+
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Huduma za Ushauri</h4>
+                        <p><font color="black">
+                        Huduma bora za Ushauri zinatolewa kwa kutumia wataalamu wetu wenye uzoefu wa kutosha
+
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Kliniki ya Mama na Mtoto (RCH)</h4>
+                        <p><font color="black">
+                        Huduma bora za Kliniki ya Mama na Mtoto (RCH) zinatolewa kwa kutumia wataalamu wetu wenye uzoefu wa kutosha
+
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Huduma ya Uzazi wa Mpango</h4>
+                        <p><font color="black">
+                        Huduma bora za Uzazi wa Mpango zinatolewa kwa kutumia wataalamu wetu wenye uzoefu wa kutosha
+
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Huduma za Uchunguzi</h4>
+                        <p><font color="black">
+                        Huduma bora za Uchunguzi zinatolewa kwa kutumia wataalamu wetu wenye uzoefu wa kutosha
+
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Huduma za Uzazi</h4>
+                        <p><font color="black">
+                        Huduma bora za Uzazi zinatolewa kwa kutumia wataalamu wetu wenye uzoefu wa kutosha
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Huduma kwa watoto chini ya Miaka 5</h4>
+                        <p><font color="black">Huduma bora kwa watoto chini ya Miaka 5 zinatolewa kwa kutumia wataalamu wetu wenye uzoefu wa kutosha
+
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Huduma ya Wazee</h4>
+                        <p><font color="black">Huduma bora kwa Wazee zinatolewa kwa kutumia wataalamu wetu wenye uzoefu wa kutosha
+
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Huduma za Msamaha wa Malipo</h4>
+                        <p><font color="black">Huduma bora za Msamaha wa Malipo zinatolewa kwa kutumia wataalamu wetu wenye uzoefu wa kutosha
+
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Huduma Wagonjwa wa BIMA</h4>
+                        <p><font color="black">Huduma bora za Wagonjwa wa BIMA zinatolewa kwa kutumia wataalamu wetu wenye uzoefu wa kutosha
+
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Huduma Malipo ya Papohapo</h4>
+                        <p><font color="black">Huduma bora za Malipo ya Papohapo zinatolewa kwa kutumia wataalamu wetu wenye uzoefu wa kutosha
+
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Huduma ya Fomu za Matibabu</h4>
+                        <p><font color="black">Huduma bora za Fomu ya Matibabu zinatolewa kwa kutumia wataalamu wetu wenye uzoefu wa kutosha
+
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Huduma ya Ushonaji Vidonda</h4>
+                        <p><font color="black">Huduma bora za Ushonaji wa Vidonda zinatolewa kwa kutumia wataalamu wetu wenye uzoefu wa kutosha
+
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Huduma Wodi za Mtu Binafsi</h4>
+                        <p><font color="black">Huduma bora za Wodi za Mtu Binafsi zinatolewa kwa kutumia wataalamu wetu wenye uzoefu wa kutosha
+
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Huduma ya Wodi za Umma</h4>
+                        <p><font color="black">Huduma bora za Wodi za Umma zinatolewa kwa kutumia wataalamu wetu wenye uzoefu wa kutosha
+
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Huduma ya Wodi za Dharula</h4>
+                        <p><font color="black">Huduma bora za Wodi za Dharula zinatolewa kwa kutumia wataalamu wetu wenye uzoefu wa kutosha
+
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Huduma Kabla ya Kujifungua</h4>
+                        <p><font color="black">Huduma bora Kabla ya Kujifungua zinatolewa kwa kutumia wataalamu wetu wenye uzoefu wa kutosha
+
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Huduma Baada ya Kujifungua</h4>
+                        <p><font color="black">Huduma bora Baada ya Kujifungua zinatolewa kwa kutumia wataalamu wetu wenye uzoefu wa kutosha
+
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Tiba ya Viungo kwa Mazoezi</h4>
+                        <p><font color="black">Huduma bora za Tiba ya Viungo kwa Mazoezi zinatolewa kwa kutumia wataalamu wetu wenye uzoefu wa kutosha
+
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Huduma za Ukunga</h4>
+                        <p><font color="black">Huduma bora za Ukunga zinatolewa kwa kutumia wataalamu wetu wenye uzoefu wa kutosha
+
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Huduma za Chanjo</h4>
+                        <p><font color="black">Huduma bora za Chanjo zinatolewa kwa kutumia wataalamu wetu wenye uzoefu wa kutosha
+
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+                    <div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Huduma za Ustawi wa Jamii</h4>
+                        <p><font color="black">Huduma bora za Ustawi wa Jamii zinatolewa kwa kutumia wataalamu wetu wenye uzoefu wa kutosha
+
+					</font> 
+
+</p>
+           
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
-    <!-- divider end -->
-     
-   <!-- Footer Style start -->
-   <footer class="bg-faded">
+    </div>
+    <!-- End Blog Posts -->
+
+   <!-- divider start -->
+   <section class="service-area over-layer-default" style="background-image:url(img/bg/5.jpg);">
+    <div class="container padding-bottom-none padding-top-40">
+        <div class="section-content">
+            <div class="row">
+                <div class="col-sm-12 col-md-4">
+                    <div class="service-item style-1 text-white border-right">
+                        <div class="service-icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-telephone" viewBox="0 0 16 16">
+                                <path d="M3.654 1.328a.678.678 0 0 0-1.015-.063L1.605 2.3c-.483.484-.661 1.169-.45 1.77a17.6 17.6 0 0 0 4.168 6.608 17.6 17.6 0 0 0 6.608 4.168c.601.211 1.286.033 1.77-.45l1.034-1.034a.678.678 0 0 0-.063-1.015l-2.307-1.794a.68.68 0 0 0-.58-.122l-2.19.547a1.75 1.75 0 0 1-1.657-.459L5.482 8.062a1.75 1.75 0 0 1-.46-1.657l.548-2.19a.68.68 0 0 0-.122-.58zM1.884.511a1.745 1.745 0 0 1 2.612.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.68.68 0 0 0 .178.643l2.457 2.457a.68.68 0 0 0 .644.178l2.189-.547a1.75 1.75 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.6 18.6 0 0 1-7.01-4.42 18.6 18.6 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877z"/>
+                              </svg>
+                        </div>
+                        <div class="content">
+                            <h5><a href="#">Wasiliana Nasi</a></h5>
+                            <p><font color="white">(+255) 682 136 704</font></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-4">
+                    <div class="service-item style-1 text-white border-right">
+                        <div class="">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-envelope-arrow-down" viewBox="0 0 16 16">
+                                <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v4.5a.5.5 0 0 1-1 0V5.383l-7 4.2-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h5.5a.5.5 0 0 1 0 1H2a2 2 0 0 1-2-1.99zm1 7.105 4.708-2.897L1 5.383zM1 4v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1"/>
+                                <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7m.354-1.646a.5.5 0 0 1-.722-.016l-1.149-1.25a.5.5 0 1 1 .737-.676l.28.305V11a.5.5 0 0 1 1 0v1.793l.396-.397a.5.5 0 0 1 .708.708z"/>
+                              </svg>
+                        </div>
+                        <div class="content">
+                            <h5><a href="#">Tuma Ujumbe</a></h5>
+                            <p><font color="white">ach@arushacc.go.tz</font></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-4">
+                    <div class="service-item style-1 text-white">
+                        <div class="">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-geo-alt-fill" viewBox="0 0 16 16">
+                                <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10m0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6"/>
+                              </svg>
+                        </div>
+                        <div class="content">
+                            <h5><a href="#">Eneo Tulipo</a></h5>
+                            <p><font color="white">Njiro, Contenna. S.L.P 3013 Arusha. TANZANIA</font> </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- divider end -->
+
+ <!-- Footer Style start -->
+ <footer class="bg-faded">
     <div class="container">
         <div class="section-content">
             <div class="row margin-top-30">
@@ -665,6 +900,7 @@
                     </li>
                   
                 </ul> 
+                      
                       <hr>
                       <ul class="social-icon bg-theme">
  
@@ -697,16 +933,16 @@
                       <div class="border-style-2"></div>
                     </div>
                     <ul class="footer-list border-deshed color-icon">
-                      <li><i class="pe-7s-angle-right"></i><a href="https://gothomis.tamisemi.go.tz/#/auth"> <font color="black">GoT-HoMIS</font></a></li>
-                      <li><i class="pe-7s-angle-right"></i><a href="https://ess.utumishi.go.tz"> <font color="black">PEPMIS System</font></a></li>
-                      <li><i class="pe-7s-angle-right"></i><a href="https://www.moh.go.tz"> <font color="black">Wizara ya Afya</font></a></li>
-                      <li><i class="pe-7s-angle-right"></i><a href="https://www.tanzania.go.tz"> <font color="black">Tovuti ya Serikali</font></a></li>
-                      <li><i class="pe-7s-angle-right"></i><a href="https://www.mnh.or.tz"> <font color="black">Hospitali ya Taifa</font></a></li>
-                      <li><i class="pe-7s-angle-right"></i><a href="https://nhif.or.tz"> <font color="black">Mfuko wa Bima (NHIF)</font></a></li>
-                      <li><i class="pe-7s-angle-right"></i><a href="https://www.who.int"> <font color="black">Shirika la Afya Duniani</font></a></li>
-                      <li><i class="pe-7s-angle-right"></i><a href="https://arushacc.go.tz"> <font color="black">Halmashauri ya jiji Arusha</font></a></li>
-                      <li><i class="pe-7s-angle-right"></i><a href="https://play.google.com/store/apps/details?id=org.smartregister.chw.moh.hf"> <font color="black">KITUONI App</font></a></li>
-                      <li><i class="pe-7s-angle-right"></i><a href="https://www.mct.go.tz"> <font color="black">Medical Council of Tanganyika</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="https://gothomis.tamisemi.go.tz/#/auth"><font color="black">GoT-HoMIS</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="https://ess.utumishi.go.tz"><font color="black">PEPMIS System</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="https://www.moh.go.tz"><font color="black">Wizara ya Afya</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="https://www.tanzania.go.tz"><font color="black">Tovuti ya Serikali</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="https://www.mnh.or.tz"><font color="black">Hospitali ya Taifa</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="https://nhif.or.tz"><font color="black">Mfuko wa Bima (NHIF)</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="https://www.who.int"><font color="black">Shirika la Afya Duniani</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="https://arushacc.go.tz"><font color="black">Halmashauri ya jiji Arusha</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="https://play.google.com/store/apps/details?id=org.smartregister.chw.moh.hf"><font color="black">KITUONI App</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="https://www.mct.go.tz"><font color="black">Medical Council of Tanganyika</font></a></li>
                      
                 
                     </ul>
@@ -719,19 +955,19 @@
                       <div class="border-style-2"></div>
                     </div>
                     <ul class="footer-list border-deshed color-icon">
-                      <li><i class="pe-7s-angle-right"></i><a href="extraduty.pdf"> <font color="black">Fomu Masaa ya Ziada</font></a></li>
-                      <li><i class="pe-7s-angle-right"></i><a href="kibalinjeyajiji.pdf"> <font color="black">Kibali cha Safari</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="extraduty.pdf"><font color="black">Fomu Masaa ya Ziada</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="kibalinjeyajiji.pdf"><font color="black">Kibali cha Safari</font></a></li>
                    
-                      <li><i class="pe-7s-angle-right"></i><a href="allowanceform.pdf"> <font color="black">Allowance Fomu</font></a></li>
-                      <li><i class="pe-7s-angle-right"></i><a href="bincard.pdf"> <font color="black">BIN Kadi</font></a></li>
-                      <li><i class="pe-7s-angle-right"></i><a href="issuevoucher.pdf"> <font color="black">Issue Vocha</font></a></li>
-                      <li><i class="pe-7s-angle-right"></i><a href="mtuha.pdf"> <font color="black">MTUHA</font></a></li>
-                      <li><i class="pe-7s-angle-right"></i><a href="maadili.pdf"> <font color="black">Maadili Mtumishi wa Umma</font></a></li>
-                      <li><i class="pe-7s-angle-right"></i><a href="arushacityhospitalictpolicy.pdf"> <font color="black">Sera ya TEHAMA</font></a></li>
-                      <li><i class="pe-7s-angle-right"></i><a href="matibabuform.pdf"> <font color="black">Fomu ya Matibabu</font></a></li>
-                      <li><i class="pe-7s-angle-right"></i><a href="nhifnewmember.pdf"> <font color="black">Fomu Usajili [NHIF]</font></a></li>
-                      <li><i class="pe-7s-angle-right"></i><a href="nhifstudent.pdf"> <font color="black">Fomu Usajili NHIF [Mwanafunzi]</font></li>
-                      <li><i class="pe-7s-angle-right"></i><a href="nhifmstaafu.pdf"> <font color="black">Fomu Usajili NHIF [Mstaafu]</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="allowanceform.pdf"><font color="black">Allowance Fomu</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="bincard.pdf"><font color="black">BIN Kadi</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="issuevoucher.pdf"><font color="black">Issue Vocha</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="mtuha.pdf"><font color="black">MTUHA</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="maadili.pdf"><font color="black">Maadili Mtumishi wa Umma</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="arushacityhospitalictpolicy.pdf"><font color="black">Sera ya TEHAMA</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="matibabuform.pdf"><font color="black">Fomu ya Matibabu</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="nhifnewmember.pdf"><font color="black">Fomu Usajili [NHIF]</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="nhifstudent.pdf"><font color="black">Fomu Usajili NHIF [Mwanafunzi]</font></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="nhifmstaafu.pdf"><font color="black">Fomu Usajili NHIF [Mstaafu]</font></a></li>
                    
                    
                     </ul>
@@ -761,7 +997,7 @@
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
-        <p> <font color="black">Haki Miliki @ 2025, HOSPITALI YA JIJI ARUSHA. Umetengenezwa na Kusimamiwa na</font> <a target="_blank" href="https://fmpiza.github.io/webfridolin">Kitengo cha TEHAMA</a></p>
+        <p><font color="black">Haki Miliki @2025, HOSPITALI YA JIJI ARUSHA. Umetengenezwa na Kusimamiwa na</font> <a target="_blank" href="https://fmpiza.github.io/webfridolin">Kitengo cha TEHAMA</a></p>
       </div>
     </div>
   </div>

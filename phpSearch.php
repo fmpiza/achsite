@@ -1,0 +1,1031 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Home | Arusha City Hospital</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+
+    <!-- Responsive stylesheet  -->
+    <link rel="stylesheet" type="text/css" href="css/responsive.css">
+
+    <!-- Favicon -->
+    <link href="img/favicon.png" rel="shortcut icon" type="image/png">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+ 
+<body>
+
+    <div class="preloader"></div>
+
+    <!-- Header navbar start -->
+    <div class="header-topbar style-2">
+        <div class="container padding-none">
+            <div class="row">
+                <div class="col-md-8 col-sm-6 welcome-top">
+                    <ul class="list-inline top-icon">
+                        <li><a href="mailto: ach@arushacc.go.tz"><font color="white"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-arrow-down-fill" viewBox="0 0 16 16">
+                            <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414zM0 4.697v7.104l5.803-3.558zm.192 8.159 6.57-4.027L8 9.586l1.239-.757.367.225A4.49 4.49 0 0 0 8 12.5c0 .526.09 1.03.256 1.5H2a2 2 0 0 1-1.808-1.144M16 4.697v4.974A4.5 4.5 0 0 0 12.5 8a4.5 4.5 0 0 0-1.965.45l-.338-.207z"/>
+                            <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7m.354-1.646a.5.5 0 0 1-.722-.016l-1.149-1.25a.5.5 0 1 1 .737-.676l.28.305V11a.5.5 0 0 1 1 0v1.793l.396-.397a.5.5 0 0 1 .708.708z"/>
+                          </svg> ach@arushacc.go.tz</font></a></li>
+                        <li><a href="tel:+255-682-136704"><font color="white"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-telephone" viewBox="0 0 16 16">
+                            <path d="M3.654 1.328a.678.678 0 0 0-1.015-.063L1.605 2.3c-.483.484-.661 1.169-.45 1.77a17.6 17.6 0 0 0 4.168 6.608 17.6 17.6 0 0 0 6.608 4.168c.601.211 1.286.033 1.77-.45l1.034-1.034a.678.678 0 0 0-.063-1.015l-2.307-1.794a.68.68 0 0 0-.58-.122l-2.19.547a1.75 1.75 0 0 1-1.657-.459L5.482 8.062a1.75 1.75 0 0 1-.46-1.657l.548-2.19a.68.68 0 0 0-.122-.58zM1.884.511a1.745 1.745 0 0 1 2.612.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.68.68 0 0 0 .178.643l2.457 2.457a.68.68 0 0 0 .644.178l2.189-.547a1.75 1.75 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.6 18.6 0 0 1-7.01-4.42 18.6 18.6 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877z"/>
+                          </svg> (+255) 682 136 704</font></a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <ul class="list-inline text-right icon-style-1">
+                        <li class=" hvr-rectangle-out"><a href="https://www.instagram.com/hospitaliyajijiarusha?igsh=ZGUzMzM3NWJiOQ=="><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
+                            <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334"/>
+                          </svg>   
+                          </a></li>
+                        
+                        <li class=" hvr-rectangle-out"><a href="https://www.facebook.com/profile.php?id=61556364492761"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16">
+                            <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951"/>
+                          </svg></a></li>
+                        <li class=" hvr-rectangle-out"><a href="https://www.youtube.com/@HospitaliyaArushaJiji?si=NJwQ08TPhU4qBBpa"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-youtube" viewBox="0 0 16 16">
+                            <path d="M8.051 1.999h.089c.822.003 4.987.033 6.11.335a2.01 2.01 0 0 1 1.415 1.42c.101.38.172.883.22 1.402l.01.104.022.26.008.104c.065.914.073 1.77.074 1.957v.075c-.001.194-.01 1.108-.082 2.06l-.008.105-.009.104c-.05.572-.124 1.14-.235 1.558a2.01 2.01 0 0 1-1.415 1.42c-1.16.312-5.569.334-6.18.335h-.142c-.309 0-1.587-.006-2.927-.052l-.17-.006-.087-.004-.171-.007-.171-.007c-1.11-.049-2.167-.128-2.654-.26a2.01 2.01 0 0 1-1.415-1.419c-.111-.417-.185-.986-.235-1.558L.09 9.82l-.008-.104A31 31 0 0 1 0 7.68v-.123c.002-.215.01-.958.064-1.778l.007-.103.003-.052.008-.104.022-.26.01-.104c.048-.519.119-1.023.22-1.402a2.01 2.01 0 0 1 1.415-1.42c.487-.13 1.544-.21 2.654-.26l.17-.007.172-.006.086-.003.171-.007A100 100 0 0 1 7.858 2zM6.4 5.209v4.818l4.157-2.408z"/>
+                          </svg></a></li>
+                        <li class=" hvr-rectangle-out"><a href="#"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
+                            <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334q.002-.211-.006-.422A6.7 6.7 0 0 0 16 3.542a6.7 6.7 0 0 1-1.889.518 3.3 3.3 0 0 0 1.447-1.817 6.5 6.5 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.32 9.32 0 0 1-6.767-3.429 3.29 3.29 0 0 0 1.018 4.382A3.3 3.3 0 0 1 .64 6.575v.045a3.29 3.29 0 0 0 2.632 3.218 3.2 3.2 0 0 1-.865.115 3 3 0 0 1-.614-.057 3.28 3.28 0 0 0 3.067 2.277A6.6 6.6 0 0 1 .78 13.58a6 6 0 0 1-.78-.045A9.34 9.34 0 0 0 5.026 15"/>
+                          </svg></a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="main-navbar conner-style style-2 position-fixed">
+        <div class="container padding-none">
+            <div class="row">
+                <div class="col-md-12">
+                    <nav class="navbar navbar-default">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand dis-none" href="index.html">  <h1 class="m-0"><i class="fa fa-map-marker-alt me-3"></i><font size=4 color="black">Arusha City Hospital</font></h1>
+                                <!-- <img src="img/logo.png" alt="Logo"> -->
+                                </a>
+                            
+                        </div>
+                        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" data-hover="dropdown" data-animations-delay="1.8s" data-animations="fadeInUp">
+                            <ul class="nav navbar-nav bg-none navbar-right style-3">
+                                <li class="dropdown active">
+                                    <a href="index.html"><font color="#00B092"><b>Home</b></font></a>
+                                   
+                                </li>
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Depertment"><font color="#00B092"><b>Services</b></font>
+                                        </span></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="depertment-4.html"><font color="black">Radiology Service</font></a>
+                                        </li>
+                                        <li><a href="physiotherapy.html"><font color="black">Physiotherapy Service</font></a>
+                                        </li>
+                                        <li><a href="dental.html"><font color="black">Dental Clinic Service</font></a>
+                                        </li>
+                                        <li><a href="eye.html"><font color="black">Eye Clinic Service</font></a>
+                                        </li>
+                                        <li><a href="consultation.html"><font color="black">Consultation Service</font></a>
+                                        </li>
+                                        <li><a href="surgery.html"><font color="black">Surgery Service</font></a>
+                                        </li>
+                                        <li><a href="labor.html"><font color="black">Labor Ward Service</font></a>
+                                        </li>
+                                        <li><a href="delivery.html"><font color="black">Delivery Service Service</font></a>
+                                        </li>
+                                        <li><a href="nutrition.html"><font color="black">Nutrition Service</font></a>
+                                        </li>
+                                        <li><a href="ent.html"><font color="black">ENT Service</font></a>
+                                        </li>
+                                        <li><a href="patientward.html"><font color="black">Patient Ward Booking Service</font></a>
+                                        </li>
+                                        
+                                        
+                                    </ul>
+                                </li>
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Pages"><font color="#00B092"><b>Directories</b></font> 
+                                       </span></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="management.html"><font color="black">Management Unit</font> </a>
+                                        </li>
+                                        <li><a href="finance.html"><font color="black">Finance and Planning Unit</font></a>
+                                        </li>
+                                        <li><a href="ict.html"><font color="black">ICT Unit</font></a>
+                                        </li>
+                                        <li><a href="laboratory.html"><font color="black">Laboratory Unit</font></a>
+                                        </li>
+                                        <li><a href="opd.html"><font color="black">Out-Patient Unit</font></a>
+                                        </li>
+                                        <li><a href="ipd.html"><font color="black">In- Patient Unit</font></a>
+                                        </li>
+                                        <li><a href="laborward.html"><font color="black">Labor Ward Unit</font></a>
+                                        </li>
+                                        <li><a href="rch.html"><font color="black">RCH Unit</font></a>
+                                        </li>
+                                        <li><a href="eyedepartment.html"><font color="black">Eye Unit</font></a>
+                                        </li>
+                                        <li><a href="dentaldepartment.html"><font color="black">Dental Unit</font></a>
+                                        </li>
+                                        <li><a href="pharmacy.html"><font color="black">Pharmacy Unit</font></a>
+                                        </li>
+                                        <li><a href="theatre.html"><font color="black">Theatre Unit</font></a>
+                                        </li>
+                                        <li><a href="physiotherapydepartment.html"><font color="black">Physiotherapy Unit</font></a>
+                                        </li>
+                                        <li><a href="radiologydepartment.html"><font color="black">Radiology Unit</font></a>
+                                        </li>
+                                        
+                                    </ul>
+                                </li>
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> <span data-hover="Doctors"><font color="#00B092"><b>Resources</b></font>
+                                         </span></a>
+                                    <ul class="dropdown-menu">
+                                        
+                                        <li><a href="team-col-4.html"><font color="black">New Vacancies</font></a>
+                                        </li>
+                                        
+                                        <li><a href="team-details.html"><font color="black">Tenders</font></a></li>
+                                            <li><a href="depertment-3.html"><font color="black">News</font></a></li>
+                                                <li><a href="depertment-1.html"><font color="black">Documents</font></a></li>
+                                                    <li><a href="department.html"><font color="black">Departmental Reports</font></a></li>
+                                                        <li><a href="depertment-6.html"><font color="black">Photo Gallery</font></a></li>
+                                       
+                                    </ul>
+                                </li>
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Portfolio"><font color="#00B092"><b>Social Welfare</b></font> 
+                                       </span></a>
+                                       <ul class="dropdown-menu">
+                                        <li><a href="shop-grid.html"><font color="black">Cash Payment</font></a>
+                                        </li>   
+                                        <li><a href="shop-grid.html"><font color="black">CHF Insurance</font></a>
+                                        </li>
+                                        <li><a href="shop-grid.html"><font color="black">NHIF Insurance</font></a>
+                                        </li>
+                                        <li><a href="shop-grid.html"><font color="black">Exemptions</font></a>
+                                        </li>
+                                        <li><a href="suggestions.html"><font color="black">Suggestions</font></a>
+                                        </li>
+                                        <li><a href="https://wa.me/255718141748"><font color="black">Chat with SWO</font></a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Blog"><font color="#00B092"><b>ICT Services</b></font> 
+                                       </span></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="https://gothomis.tamisemi.go.tz/#/auth"><font color="black">GoT-HoMIS</font></a>
+                                        </li>
+                                        <li><a href="https://ess.utumishi.go.tz"><font color="black">PEPMIS System</font></a>
+                                        </li>
+                                        <li><a href="https://mail.arushacc.go.tz/"><font color="black">Staff Mails</font></a>
+                                        </li>
+                                        <li><a href="https://play.google.com/store/apps/details?id=org.smartregister.chw.moh.hf"><font color="black">Kituoni App</font></a>
+                                        </li>
+                                        <li><a href="blog-right.html"><font color="black">Hardware Issues</font></a>
+                                        </li>
+                                        <li><a href="blog-left.html"><font color="black">Network Issues</font></a>
+                                        </li>
+                                        <li><a href="blog-center.html"><font color="black">Software Issues</font></a>
+                                        </li>
+                                        <li><a href="contact-style-1.html"><font color="black">Technical Support</font></a>
+                                            <li><a href="contact-style-2.html"><font color="black">Field Student Registration</font></a>
+                                        </li>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Contact"><font color="#00B092"><b>Change Language</b></font> 
+                                        </span></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="phpSearch1.php"><font color="black">Swahili</font></a>
+                                        </li>
+                                        <li><a href="phpSearch.php"><font color="black">English</font></a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <div class="dropdown-buttons">
+                                        <div class="btn-group menu-search-box">
+                                            <button type="button" class="btn dropdown-toggle" id="header-drop-3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="icon icon-Search"></i></button>
+                                            <ul class="dropdown-menu dropdown-menu-right dropdown-animation" aria-labelledby="header-drop-3">
+                                                <li>
+                                                    <form role="search" class="search-box">
+                                                        <div class="form-group">
+                                                            <input type="text" class="form-control" placeholder="Search">
+                                                            <i class="icon icon-Search form-control-feedback"></i>
+                                                        </div>
+                                                    </form>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="btn-group">
+                                            <button type="button" class="btn dropdown-toggle" id="header-drop-4" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><font color="black"><i class="fa fa-map-marker-alt me-3"></i></font><span class="menu-cart"><font color="white"><i class="fa fa-map-marker-alt me-3"></i></font></span></button>
+                                            <ul class="dropdown-menu dropdown-menu-right cart dropdown-animation" aria-labelledby="header-drop-4">
+                                                <li>
+                                                    <table class="table table-hover">
+                                                        <thead>
+                                                            <tr>
+                                                            
+                                                                <th class="product">    
+                                                                     
+                                                                    <a href="location.html" class="menu-shop-btn">Our Location</a></th>
+                                                                
+                                                            </tr>
+                                                            </thead>
+                                                            <tbody>
+                                                            <tr>
+                                                                
+                                                                <td class="product">       <a href="https://meet.google.com/riu-vboz-hou" class="menu-shop-btn">Online Meeting</a></td>
+                                                               
+                                                            </tr>
+                                                        
+                                                       
+                                                        
+                                                        </tbody>
+                                                    </table>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Header navbar end -->
+
+
+
+
+    <section class="inner-bg over-layer-black" style="background-image: url('img/bg/fridge.JPG')">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="mini-title inner-style-2">
+                        <h4><font color="black">Services</font> </h4>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+
+    <!-- Blog Posts -->
+    <div class="blog-inner-section bg-f8">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="blog-sideber">
+                        <div class="widget">
+                           
+                        </div>
+                        <div class="widget clearfix">
+                            <div class="sideber-title">
+                                <h4>New</h4>
+                            </div>
+                            <div class="sideber-content about">
+                                <div class="testimonial-carousel-one">
+                                    <div class="item">
+                                        <p><i class="fa fa-quote-left"></i>
+                                            <font color="black"> Arusha City Hospital offers the best Health Services</font>  <i class="fa fa-quote-right"></i></p>
+                                    </div>
+                                    <div class="item">
+                                        <p><i class="fa fa-quote-left"></i>
+                                            <font color="black"> We are here to ensure a reliable Health service</font>  <i class="fa fa-quote-right"></i></p>
+                                    </div>
+                                    <div class="item">
+                                                                                <p><i class="fa fa-quote-left"></i> 
+                                            <font color="black">24 Hours services from our very own experts</font>
+                                            <i class="fa fa-quote-right"></i></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                                  
+
+                        <div class="widget clearfix">
+                            <div class="sideber-title">
+                                <h4>News</h4>
+                            </div>
+                            <div class="sideber-content">
+                                <ul>
+                                    <li> <a href="xrayservice.pdf"><i class="fa fa-angle-right"></i> <font color="black">X-Ray Services</font></a> </li>
+                                    <li> <a href="dentalservice.pdf"><i class="fa fa-angle-right"></i><font color="black"> Dental Services</font></a> </li>
+                                    <li> <a href="eyeservice.pdf"><i class="fa fa-angle-right"></i> <font color="black">Eye Services</font></a> </li>
+                                    <li> <a href="socialwelfareservice.pdf"><i class="fa fa-angle-right"></i> <font color="black">Social Welfare</font></a> </li>
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                       
+                        
+                    </div>
+                </div>
+                <div class="col-md-9">
+                    <div class="blog-item style-1 margin-bottom-30">
+                       
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+							<?php
+
+$search = $_POST['search'];
+
+$servername = "localhost";
+$username = "anthony";
+$password = "88Zamzam";
+$db = "achdb";
+
+$conn = new mysqli($servername, $username, $password, $db);
+
+if ($conn->connect_error){
+	die("Connection failed: ". $conn->connect_error);
+}
+
+$sql = "select servicename from service where servicename like '%$search%'";
+
+$result = $conn->query($sql);
+
+if ($result->num_rows > 0){
+while($row = $result->fetch_assoc() ){
+	echo $row["servicename"]."<br>";
+}
+} else {
+	echo "0 records";
+}
+
+$conn->close();
+
+?>
+           
+                        </div>
+                    </div>
+                    <div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>X-Ray Services</h4>
+                        <p><font color="black">
+							The Best X-Ray Services are well offered at Arusha City Hospital under the intensive supervision of very own Health experts
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Dental Services</h4>
+                        <p><font color="black">
+							Also, we are grateful to inform our esteemed patients on the best Dental service at Arusha City Hospital by our own health experts
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Laboratory Services</h4>
+                        <p><font color="black">
+							Our Laboratory department are here to service you the best and reliable level of expertise
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Eye Clinic Services</h4>
+                        <p><font color="black">
+							Our eye experts are happy to announce the best eye clinic services to our esteemed patients
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Ultra Sound Services</h4>
+                        <p><font color="black">
+							Our Radiology department experts are here to inform the patients on our best Ultra Sound services at Arusha City Hospital
+							
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Surgery Services</h4>
+                        <p><font color="black">
+							Also, the major Surgery services are well offered from our very own epxerts by considering the level of expertise
+							
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Eye, Nose and Throat (ENT) Services</h4>
+                        <p><font color="black">
+							Our ENT specialists are here to help you on several Eye, Nose and Throat problems
+							
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Consultation Services</h4>
+                        <p><font color="black">
+							Including several Consultation services from our very own health experts
+							
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Reproductive and Child Health (RCH) Services</h4>
+                        <p><font color="black">
+							Among the best services offered at Arusha City Hospital including Reproductive and Child Health (RCH) services to our esteemed patieits
+							
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Family Planning Services</h4>
+                        <p><font color="black">
+							Our very own Family Planning experts are here to help you on several family planning concerns
+							
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Observation Services</h4>
+                        <p><font color="black">
+							Also, our specialists are here for any observation related services
+							
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Labor and Delivery Services</h4>
+                        <p><font color="black">
+							Our specialists are here to help you on several health related services
+							
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Under Five Category Services</h4>
+                        <p><font color="black">Our specialists are here to help you on several health related services
+							
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Above 60 Years Services</h4>
+                        <p><font color="black">Our specialists are here to help you on several health related services
+							
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Exemption Category Services</h4>
+                        <p><font color="black">Our specialists are here to help you on several health related services
+							
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>NHIF Clients Services</h4>
+                        <p><font color="black">Our specialists are here to help you on several health related services
+							
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Self Referral Services</h4>
+                        <p><font color="black">Our specialists are here to help you on several health related services
+							
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Examination Form Services</h4>
+                        <p><font color="black">Our specialists are here to help you on several health related services
+							
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Stiching Services</h4>
+                        <p><font color="black">Our specialists are here to help you on several health related services
+							
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Private Ward Services</h4>
+                        <p><font color="black">Our specialists are here to help you on several health related services
+							
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Public Ward Services</h4>
+                        <p><font color="black">Our specialists are here to help you on several health related services
+							
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Emergency Ward Services</h4>
+                        <p><font color="black">Our specialists are here to help you on several health related services
+							
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Ante Natal Services</h4>
+                        <p><font color="black">Our specialists are here to help you on several health related services
+							
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Post Natal Services</h4>
+                        <p><font color="black">Our specialists are here to help you on several health related services
+							
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Physiotherapy Services</h4>
+                        <p><font color="black">Our specialists are here to help you on several health related services
+							
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Gynaecological Services</h4>
+                        <p><font color="black">Our specialists are here to help you on several health related services
+							
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+					<div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Vaccination Services</h4>
+                        <p><font color="black">Our specialists are here to help you on several health related services
+							
+
+                        </font></p>
+           
+                        </div>
+                    </div>
+                    <div class="blog-item style-1 margin-bottom-30">
+                        
+                        <div class="blog-content w100">
+                            <div class="blog-date margin-bottom-20">
+                                <i class="fa fa-user-o"></i> Admin
+                                
+                                </div>
+                        <h4>Social Welfare Services</h4>
+                        <p><font color="black">Our specialists are here to help you on several health related services
+							
+					</font> 
+
+</p>
+           
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Blog Posts -->
+
+   <!-- divider start -->
+   <section class="service-area over-layer-default" style="background-image:url(img/bg/5.jpg);">
+    <div class="container padding-bottom-none padding-top-40">
+        <div class="section-content">
+            <div class="row">
+                <div class="col-sm-12 col-md-4">
+                    <div class="service-item style-1 text-white border-right">
+                        <div class="service-icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-telephone" viewBox="0 0 16 16">
+                                <path d="M3.654 1.328a.678.678 0 0 0-1.015-.063L1.605 2.3c-.483.484-.661 1.169-.45 1.77a17.6 17.6 0 0 0 4.168 6.608 17.6 17.6 0 0 0 6.608 4.168c.601.211 1.286.033 1.77-.45l1.034-1.034a.678.678 0 0 0-.063-1.015l-2.307-1.794a.68.68 0 0 0-.58-.122l-2.19.547a1.75 1.75 0 0 1-1.657-.459L5.482 8.062a1.75 1.75 0 0 1-.46-1.657l.548-2.19a.68.68 0 0 0-.122-.58zM1.884.511a1.745 1.745 0 0 1 2.612.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.68.68 0 0 0 .178.643l2.457 2.457a.68.68 0 0 0 .644.178l2.189-.547a1.75 1.75 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.6 18.6 0 0 1-7.01-4.42 18.6 18.6 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877z"/>
+                              </svg>
+                        </div>
+                        <div class="content">
+                            <h5><a href="#">Make Us a Call</a></h5>
+                            <p><font color="white">(+255) 682 136 704</font></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-4">
+                    <div class="service-item style-1 text-white border-right">
+                        <div class="">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-envelope-arrow-down" viewBox="0 0 16 16">
+                                <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v4.5a.5.5 0 0 1-1 0V5.383l-7 4.2-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h5.5a.5.5 0 0 1 0 1H2a2 2 0 0 1-2-1.99zm1 7.105 4.708-2.897L1 5.383zM1 4v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1"/>
+                                <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7m.354-1.646a.5.5 0 0 1-.722-.016l-1.149-1.25a.5.5 0 1 1 .737-.676l.28.305V11a.5.5 0 0 1 1 0v1.793l.396-.397a.5.5 0 0 1 .708.708z"/>
+                              </svg>
+                        </div>
+                        <div class="content">
+                            <h5><a href="#">Send us a Message</a></h5>
+                            <p><font color="white">ach@arushacc.go.tz</font></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-4">
+                    <div class="service-item style-1 text-white">
+                        <div class="">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-geo-alt-fill" viewBox="0 0 16 16">
+                                <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10m0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6"/>
+                              </svg>
+                        </div>
+                        <div class="content">
+                            <h5><a href="#">Visit our Location</a></h5>
+                            <p><font color="white">Njiro, Contenna. P.o.Box 3013 Arusha. TANZANIA</font> </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- divider end -->
+
+
+<!-- Footer Style start -->
+<footer class="bg-faded">
+    <div class="container">
+        <div class="section-content">
+            <div class="row margin-top-30">
+                <div class="col-md-3">
+                  <div class="footer-item footer-widget-one">
+                <p><h4>Contacts </h4></p>
+                <ul class="address">
+                    <li> <a href=""> <font size=2><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-geo-alt-fill" viewBox="0 0 16 16">
+                        <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10m0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6"/>
+                      </svg>  Njiro, Contenna. P.o.Box 3013 Arusha, TANZANIA</font></a></li>
+                    <li> <a href="mailto: ach@arushacc.go.tz"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-envelope-arrow-down" viewBox="0 0 16 16">
+                        <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v4.5a.5.5 0 0 1-1 0V5.383l-7 4.2-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h5.5a.5.5 0 0 1 0 1H2a2 2 0 0 1-2-1.99zm1 7.105 4.708-2.897L1 5.383zM1 4v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1"/>
+                        <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7m.354-1.646a.5.5 0 0 1-.722-.016l-1.149-1.25a.5.5 0 1 1 .737-.676l.28.305V11a.5.5 0 0 1 1 0v1.793l.396-.397a.5.5 0 0 1 .708.708z"/>
+                      </svg> <font size=2>ach@arushacc.go.tz</font></a></li>
+                    <li>  <a href="tel:+255-682-136704"> <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-telephone" viewBox="0 0 16 16">
+                        <path d="M3.654 1.328a.678.678 0 0 0-1.015-.063L1.605 2.3c-.483.484-.661 1.169-.45 1.77a17.6 17.6 0 0 0 4.168 6.608 17.6 17.6 0 0 0 6.608 4.168c.601.211 1.286.033 1.77-.45l1.034-1.034a.678.678 0 0 0-.063-1.015l-2.307-1.794a.68.68 0 0 0-.58-.122l-2.19.547a1.75 1.75 0 0 1-1.657-.459L5.482 8.062a1.75 1.75 0 0 1-.46-1.657l.548-2.19a.68.68 0 0 0-.122-.58zM1.884.511a1.745 1.745 0 0 1 2.612.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.68.68 0 0 0 .178.643l2.457 2.457a.68.68 0 0 0 .644.178l2.189-.547a1.75 1.75 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.6 18.6 0 0 1-7.01-4.42 18.6 18.6 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877z"/>
+                      </svg> (+255) 682 136 704</font></a>
+                    </li>
+                  
+                </ul> 
+                      <hr>
+                      <ul class="social-icon bg-theme">
+ 
+                       
+                        <li><a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.facebook.com/profile.php?id=61556364492761"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16">
+                            <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951"/>
+                          </svg>
+                          </a></li>
+                        <li><a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.youtube.com/@HospitaliyaArushaJiji?si=NJwQ08TPhU4qBBpa"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-youtube" viewBox="0 0 16 16">
+                            <path d="M8.051 1.999h.089c.822.003 4.987.033 6.11.335a2.01 2.01 0 0 1 1.415 1.42c.101.38.172.883.22 1.402l.01.104.022.26.008.104c.065.914.073 1.77.074 1.957v.075c-.001.194-.01 1.108-.082 2.06l-.008.105-.009.104c-.05.572-.124 1.14-.235 1.558a2.01 2.01 0 0 1-1.415 1.42c-1.16.312-5.569.334-6.18.335h-.142c-.309 0-1.587-.006-2.927-.052l-.17-.006-.087-.004-.171-.007-.171-.007c-1.11-.049-2.167-.128-2.654-.26a2.01 2.01 0 0 1-1.415-1.419c-.111-.417-.185-.986-.235-1.558L.09 9.82l-.008-.104A31 31 0 0 1 0 7.68v-.123c.002-.215.01-.958.064-1.778l.007-.103.003-.052.008-.104.022-.26.01-.104c.048-.519.119-1.023.22-1.402a2.01 2.01 0 0 1 1.415-1.42c.487-.13 1.544-.21 2.654-.26l.17-.007.172-.006.086-.003.171-.007A100 100 0 0 1 7.858 2zM6.4 5.209v4.818l4.157-2.408z"/>
+                          </svg>
+                          </a>
+                        </li>
+                        <li><a class="btn-square btn btn-primary rounded-circle mx-1" href="https://www.instagram.com/hospitaliyajijiarusha?igsh=ZGUzMzM3NWJiOQ=="><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
+                            <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334"/>
+                          </svg>   </i></a>
+                        </li>
+                        <li> <a class="btn-square btn btn-primary rounded-circle mx-1" href=""><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
+                            <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334q.002-.211-.006-.422A6.7 6.7 0 0 0 16 3.542a6.7 6.7 0 0 1-1.889.518 3.3 3.3 0 0 0 1.447-1.817 6.5 6.5 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.32 9.32 0 0 1-6.767-3.429 3.29 3.29 0 0 0 1.018 4.382A3.3 3.3 0 0 1 .64 6.575v.045a3.29 3.29 0 0 0 2.632 3.218 3.2 3.2 0 0 1-.865.115 3 3 0 0 1-.614-.057 3.28 3.28 0 0 0 3.067 2.277A6.6 6.6 0 0 1 .78 13.58a6 6 0 0 1-.78-.045A9.34 9.34 0 0 0 5.026 15"/>
+                          </svg></a>
+                        </li>
+                       
+                    </ul>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                  <div class="footer-item">
+                    <div class="footer-title">
+                      <h4>Useful Links </h4>
+                      <div class="border-style-2"></div>
+                    </div>
+                    <ul class="footer-list border-deshed color-icon">
+                      <li><i class="pe-7s-angle-right"></i><a href="https://gothomis.tamisemi.go.tz/#/auth"><font color="black">GoT-HoMIS</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="https://ess.utumishi.go.tz"><font color="black">PEPMIS System</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="https://www.moh.go.tz"><font color="black">Ministry of Health</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="https://www.tanzania.go.tz"><font color="black">Government Website</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="https://www.mnh.or.tz"><font color="black">Muhimbili National Hospital</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="https://nhif.or.tz"><font color="black">National Health Insurance Fund (NHIF)</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="https://www.who.int"><font color="black">World Health Organization</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="https://arushacc.go.tz"><font color="black">Arusha City Council</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="https://play.google.com/store/apps/details?id=org.smartregister.chw.moh.hf"><font color="black">KITUONI App</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="https://www.mct.go.tz"><font color="black">Medical Council of Tanganyika</font> </a></li>
+                     
+                
+                    </ul>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <div class="footer-item">
+                    <div class="footer-title">
+                      <h4>e-Documents</h4>
+                      <div class="border-style-2"></div>
+                    </div>
+                    <ul class="footer-list border-deshed color-icon">
+                      <li><i class="pe-7s-angle-right"></i><a href="extraduty.pdf"><font color="black">Extra Duty Form</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="kibalinjeyajiji.pdf"><font color="black">Kibali cha Safari</font></a></li>
+                   
+                      <li><i class="pe-7s-angle-right"></i><a href="allowanceform.pdf"><font color="black">Allowance Form</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="bincard.pdf"><font color="black">BIN Card</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="issuevoucher.pdf"><font color="black">Issue Voucher</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="mtuha.pdf"><font color="black">MTUHA</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="maadili.pdf"><font color="black">Maadili Mtumishi wa Umma</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="arushacityhospitalictpolicy.pdf"><font color="black">ICT Policy</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="matibabuform.pdf"><font color="black">Matibabu Form</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="nhifnewmember.pdf"><font color="black">NHIF Registration Form</font></a></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="nhifstudent.pdf"><font color="black">NHIF Registration [Student]</font></li>
+                      <li><i class="pe-7s-angle-right"></i><a href="nhifmstaafu.pdf"><font color="black">NHIF Registration [Mstaafu]</font></a></li>
+                   
+                   
+                    </ul>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <div class="footer-item">
+                    <div class="footer-item clearfix">
+                      <div class="footer-title">
+                        <h4>United Republic of TANZANIA</h4>
+                        <div class="border-style-1"></div>
+                      </div>
+                      <div class="flicker-feed gutter">
+                        <div align="center">
+                            <img src="img/coat.png" alt="coat" style="width:30%">
+                        </div>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<section class="footer-copy-right bg-f9">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <p><font color="black">Copyright @ 2025, ARUSHA CITY HOSPITAL. Developed and Maintained by</font> <a target="_blank" href="https://fmpiza.github.io/webfridolin">ICT UNIT</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- Footer Style End -->
+
+
+<a href="#" class="scrollup"><i class="pe-7s-up-arrow" aria-hidden="true"></i></a>
+<!-- jQuery -->
+<script type="text/javascript" src="js/jquery.min.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+<!-- all plugins and JavaScript -->
+<script type="text/javascript" src="js/bootstrap-datepicker.min.js"></script>
+<script type="text/javascript" src="js/css3-animate-it.js"></script>
+<script type="text/javascript" src="js/bootstrap-dropdownhover.min.js"></script>
+<script type="text/javascript" src="js/owl.carousel.min.js"></script>
+<script type="text/javascript" src="js/gallery.js"></script>
+<script type="text/javascript" src="js/player.min.js"></script>
+<script type="text/javascript" src="js/retina.js"></script>
+<script type="text/javascript" src="js/comming-soon.js"></script>
+
+<!-- Main Custom JS -->
+<script type="text/javascript" src="js/script.js"></script>
+
+
+</body>
+
+
+
+</html>
+
