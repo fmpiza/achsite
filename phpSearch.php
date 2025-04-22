@@ -373,7 +373,7 @@ if ($conn->connect_error){
 	die("Connection failed: ". $conn->connect_error);
 }
 
-$sql = "select servicename from service where servicename like '%$search%'";
+$sql = "select * from service where servicename like '%$search%'";
 
 $result = $conn->query($sql);
 
