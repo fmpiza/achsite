@@ -98,9 +98,8 @@
                                         Nyumbani</b></font></a>
                                    
                                 </li>
-                                <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Depertment"><font color="#00B092"><b>Huduma</b></font>
-                                       </span></a>
+                             <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Depertment"><font color="#00B092"><b>Huduma</b></font></i></span></a>
                                     <ul class="dropdown-menu">
                                         <li><a href="depertment-4copy.html"><font color="black">Huduma Mionzi</font></a>
                                         </li>
@@ -122,10 +121,10 @@
                                         </li>
                                         <li><a href="ent1.html"><font color="black">Huduma ya ENT</font></a>
                                         </li>
-                                        <li><a href="patientward1.html"><font color="black">
-                                            Book Wodi ya Wagonjwa</font></a>
+                                        <li><a href="patientward1.html"><font color="black">Book Wodi ya Wagonjwa</font></a>
                                         </li>
-                                        
+                                        <li><a href="testing1.html"><font color="black">Mchanganuo wa Huduma</font></a>
+                                        </li>
                                         
                                     </ul>
                                 </li>
