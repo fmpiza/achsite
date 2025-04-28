@@ -73,7 +73,7 @@
         </div>
     </div>
 
-    <div class="main-navbar conner-style style-2 position-fixed">
+   <div class="main-navbar conner-style style-2 position-fixed">
         <div class="container padding-none">
             <div class="row">
                 <div class="col-md-12">
@@ -85,7 +85,6 @@
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
                             </button>
-                         
                             <a class="navbar-brand dis-none" href="index1.html">  <h1 class="m-0"><i class="fa fa-map-marker-alt me-3"></i><font size=4 color="black">Hospitali ya Jiji Arusha</font></h1>
                                 <!-- <img src="img/logo.png" alt="Logo"> -->
                                 </a>
@@ -94,11 +93,10 @@
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" data-hover="dropdown" data-animations-delay="1.8s" data-animations="fadeInUp">
                             <ul class="nav navbar-nav bg-none navbar-right style-3">
                                 <li class="dropdown active">
-                                    <a href="index1.html"><font color="#00B092"><b>
-                                        Nyumbani</b></font></a>
+                                    <a href="index1.html"><font color="#00B092"><b>Nyumbani</b></font></a>
                                    
                                 </li>
-                             <li class="dropdown">
+                                <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Depertment"><font color="#00B092"><b>Huduma</b></font></i></span></a>
                                     <ul class="dropdown-menu">
                                         <li><a href="depertment-4copy.html"><font color="black">Huduma Mionzi</font></a>
@@ -129,8 +127,7 @@
                                     </ul>
                                 </li>
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Pages"><font color="#00B092"><b>Vitengo</b></font>
-                                      </span></a>
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Pages"><font color="#00B092"><b>Vitengo</b></font> </span></a>
                                     <ul class="dropdown-menu">
                                         <li><a href="management1.html"><font color="black">Uongozi</font> </a>
                                         </li>
@@ -156,8 +153,7 @@
                                         </li>
                                         <li><a href="theatre1.html"><font color="black">Upasuaji</font></a>
                                         </li>
-                                        <li><a href="physiotherapydepartment1.html"><font color="black">
-                                            Tiba kwa Mazoezi</font></a>
+                                        <li><a href="physiotherapydepartment1.html"><font color="black">Tiba kwa Mazoezi</font></a>
                                         </li>
                                         <li><a href="radiologydepartment1.html"><font color="black">Mionzi</font></a>
                                         </li>
@@ -165,8 +161,7 @@
                                     </ul>
                                 </li>
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> <span data-hover="Doctors"><font color="#00B092"><b>Viambata</b></font>
-                                         </span></a>
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> <span data-hover="Doctors"><font color="#00B092"><b>Viambata</b></font> </span></a>
                                     <ul class="dropdown-menu">
                                         
                                         <li><a href="team-col-4copy.html"><font color="black">Nafasi Mpya</font></a>
@@ -181,36 +176,33 @@
                                     </ul>
                                 </li>
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Portfolio"><font color="#00B092"><b>Ustawi wa Jamii</b></font>
-                                         </span></a>
-                                         <ul class="dropdown-menu">
-                                            <li><a href="shop-grid1.html"><font color="black">Malipo Papohapo</font></a>
-                                            </li>   
-                                            <li><a href="shop-grid1.html"><font color="black">Bima CHF</font></a>
-                                            </li>
-                                            <li><a href="shop-grid1.html"><font color="black">Bima NHIF</font></a>
-                                            </li>
-                                            <li><a href="shop-grid1.html"><font color="black">Msamaha</font></a>
-                                            </li>
-                                            <li><a href="suggestions1.html"><font color="black">Maoni</font></a>
-                                            </li>
-                                            <li><a href="https://wa.me/255718141748"><font color="black">Ujumbe kwa Mtaalamu</font></a>
-                                            </li>
-                                        </ul>
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Portfolio"><font color="#00B092"><b>Ustawi wa Jamii</b></font> </span></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="shop-grid1.html"><font color="black">Malipo Papohapo</font></a>
+                                        </li>   
+                                        <li><a href="shop-grid1.html"><font color="black">Bima CHF</font></a>
+                                        </li>
+                                        <li><a href="shop-grid1.html"><font color="black">Bima NHIF</font></a>
+                                        </li>
+                                        <li><a href="shop-grid1.html"><font color="black">Msamaha</font></a>
+                                        </li>
+                                        <li><a href="suggestions1.html"><font color="black">Maoni</font></a>
+                                        </li>
+                                        <li><a href="https://wa.me/255718141748"><font color="black">Ujumbe kwa Mtaalamu</font></a>
+                                        </li>
+                                    </ul>
                                 </li>
                                 
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Blog"><font color="#00B092"><b>Huduma TEHAMA</b></font>
-                                        </span></a>
-                                        <ul class="dropdown-menu">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Blog"><font color="#00B092"><b>Huduma TEHAMA</b></font> </span></a>
+                                    <ul class="dropdown-menu">
                                         <li><a href="https://gothomis.tamisemi.go.tz/#/auth"><font color="black">GoT-HoMIS</font></a>
                                         </li>
                                         <li><a href="https://ess.utumishi.go.tz"><font color="black">PEPMIS System</font></a>
                                         </li>
                                         <li><a href="https://mail.arushacc.go.tz/"><font color="black">Staff Mails</font></a>
                                         </li>
-                                        <li><a href="https://play.google.com/store/apps/details?id=org.smartregister.chw.moh.hf"><font color="black">
-                                            Kituoni App</font></a>
+                                        <li><a href="https://play.google.com/store/apps/details?id=org.smartregister.chw.moh.hf"><font color="black">Kituoni App</font></a>
                                         </li>
                                         <li><a href="blog-right1.html"><font color="black">Masuala ya Hardware</font></a>
                                         </li>
@@ -219,8 +211,9 @@
                                         <li><a href="blog-center1.html"><font color="black">Masuala ya Software</font></a>
                                         </li>
                                         <li><a href="contact-style-1copy.html"><font color="black">Msaada wa Kiufundi</font></a>
-                                            <li><a href="contact-style-2copy.html"><font color="black">
-                                                Usajili Mafunzo Vitendo</font> </a>
+                                            <li><a href="contact-style-2copy.html"><font color="black">Usajili Mafunzo Vitendo</font> </a>
+                                        </li>
+					    <li><a href="https://hfrportal.moh.go.tz/web/index.php?r=portal%2Fadvanced-search"><font color="black">Vituo vya Afya TANZANIA</font></a>
                                         </li>
                                         </li>
                                     </ul>
