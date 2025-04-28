@@ -76,24 +76,32 @@
     <div class="main-navbar conner-style style-2 position-fixed">
         <div class="container padding-none">
             <div class="row">
+                
                 <div class="col-md-12">
+                    <a class="navbar-brand dis-none" href="index.html"> 
+                                 <h1 class="m-0"> 
+                                    <i class="fa fa-map-marker-alt me-3"></i><font size=4 color="black">Arusha City Hospital</font></h1>
+                                
+                                
+                            </a>           
                     <nav class="navbar navbar-default">
                         <div class="navbar-header">
+                            
                             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
                                 <span class="sr-only">Toggle navigation</span>
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
                             </button>
-                            <a class="navbar-brand dis-none" href="index.html">  <h1 class="m-0"><i class="fa fa-map-marker-alt me-3"></i><font size=4 color="black">Arusha City Hospital</font></h1>
-                                <!-- <img src="img/logo.png" alt="Logo"> -->
-                                </a>
+                         
+                            
+                           
                             
                         </div>
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" data-hover="dropdown" data-animations-delay="1.8s" data-animations="fadeInUp">
                             <ul class="nav navbar-nav bg-none navbar-right style-3">
                                 <li class="dropdown active">
-                                    <a href="index.html"><font color="black"><b>Home</b></font></a>
+                                    <a href="index.html"><font color="#00B092"><b>Home</b></font></a>
                                    
                                 </li>
                                 <li class="dropdown">
@@ -121,8 +129,7 @@
                                     </ul>
                                 </li>
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Pages"><font color="black"><b>Directories</b></font> 
-                                        </span></a>
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Pages"><font color="#00B092"><b>Directories</b></font> </span></a>
                                     <ul class="dropdown-menu">
                                         <li><a href="management.html"><font color="black">Management Unit</font> </a>
                                         </li>
@@ -156,8 +163,7 @@
                                     </ul>
                                 </li>
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> <span data-hover="Doctors"><font color="black"><b>Resources</b></font> 
-                                       </span></a>
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> <span data-hover="Doctors"><font color="#00B092"><b>Resources</b></font> </span></a>
                                     <ul class="dropdown-menu">
                                         
                                         <li><a href="team-col-4.html"><font color="black">New Vacancies</font></a>
@@ -168,32 +174,29 @@
                                                 <li><a href="depertment-1.html"><font color="black">Documents</font></a></li>
                                                     <li><a href="department.html"><font color="black">Departmental Reports</font></a></li>
                                                         <li><a href="depertment-6.html"><font color="black">Photo Gallery</font></a></li>
-
                                        
                                     </ul>
                                 </li>
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Portfolio"><font color="black"><b>Social Welfare</b></font> 
-                                       </span></a>
-                                       <ul class="dropdown-menu">
-                                            <li><a href="shop-grid.html"><font color="black">Cash Payment</font></a>
-                                            </li>   
-                                            <li><a href="shop-grid.html"><font color="black">CHF Insurance</font></a>
-                                            </li>
-                                            <li><a href="shop-grid.html"><font color="black">NHIF Insurance</font></a>
-                                            </li>
-                                            <li><a href="shop-grid.html"><font color="black">Exemptions</font></a>
-                                            </li>
-                                            <li><a href="suggestions.html"><font color="black">Suggestions</font></a>
-                                            </li>
-                                            <li><a href="https://wa.me/255718141748"><font color="black">Chat with SWO</font></a>
-                                            </li>
-                                        </ul>
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Portfolio"><font color="#00B092"></b>Social Welfare</b></font> </span></a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="shop-grid.html"><font color="black">Cash Payment</font></a>
+                                        </li>   
+                                        <li><a href="shop-grid.html"><font color="black">CHF Insurance</font></a>
+                                        </li>
+                                        <li><a href="shop-grid.html"><font color="black">NHIF Insurance</font></a>
+                                        </li>
+                                        <li><a href="shop-grid.html"><font color="black">Exemptions</font></a>
+                                        </li>
+                                        <li><a href="suggestions.html"><font color="black">Suggestions</font></a>
+                                        </li>
+                                        <li><a href="https://wa.me/255718141748"><font color="black">Chat with SWO</font></a>
+                                        </li>
+                                    </ul>
                                 </li>
                                 
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Blog"><font color="black"><b>ICT Services</b></font> 
-                                       </span></a>
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span data-hover="Blog"><font color="#00B092"><b>ICT Services</b></font> </span></a>
                                     <ul class="dropdown-menu">
                                         <li><a href="https://gothomis.tamisemi.go.tz/#/auth"><font color="black">GoT-HoMIS</font></a>
                                         </li>
@@ -211,6 +214,8 @@
                                         </li>
                                         <li><a href="contact-style-1.html"><font color="black">Technical Support</font></a>
                                             <li><a href="contact-style-2.html"><font color="black">Field Student Registration</font></a>
+                                        </li>
+   					<li><a href="https://hfrportal.moh.go.tz/web/index.php?r=portal%2Fadvanced-search"><font color="black">TANZANIA Health Facilities</font></a>
                                         </li>
                                         </li>
                                     </ul>
