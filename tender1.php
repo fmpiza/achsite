@@ -162,7 +162,7 @@
                                 </li>
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> <span data-hover="Doctors"><font color="#00B092"><b>Viambata</b></font> </span></a>
-                                    <ul class="dropdown-menu">
+                                   <ul class="dropdown-menu">
                                         
                                         <li><a href="team-col-4copy.html"><font color="black">Nafasi Mpya</font></a>
                                         </li>
@@ -172,6 +172,7 @@
                                                 <li><a href="depertment-1copy.html"><font color="black">Nyaraka</font></a></li>
                                                     <li><a href="department1.html"><font color="black">Ripoti Vitengo</font></a></li>
                                                         <li><a href="depertment-6copy.html"><font color="black">Maktaba Picha</font></a></li>
+                                       <li><a href="documentary1.html"><font color="black">Kumbukumbu Video</font></a></li>
                                        
                                     </ul>
                                 </li>
