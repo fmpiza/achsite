@@ -174,6 +174,7 @@
                                                 <li><a href="depertment-1.html"><font color="black">Documents</font></a></li>
                                                     <li><a href="department.html"><font color="black">Departmental Reports</font></a></li>
                                                         <li><a href="depertment-6.html"><font color="black">Photo Gallery</font></a></li>
+					     <li><a href="documentary.html"><font color="black">Hospital Documentaries</font></a></li>
                                        
                                     </ul>
                                 </li>
