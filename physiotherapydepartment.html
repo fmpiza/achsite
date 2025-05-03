@@ -96,7 +96,7 @@
                             </button>
                          
                             
-                            <span> <a href="index.html"> <img src="favbg.png" alt="coat" style="width:40%"></a></span>
+                            <span> <a href="index.html"> <img src="favbg.png" alt="coat" style="width:35%"></a></span>
                             
                         </div>
 			
