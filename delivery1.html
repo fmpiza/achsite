@@ -95,7 +95,7 @@
                             </button>
                          
                             
-                            <span> <a href="index1.html"> <img src="favbg.png" alt="coat" style="width:40%"></a></span>
+                            <span> <a href="index1.html"> <img src="favbg.png" alt="coat" style="width:35%"></a></span>
                             
                         </div>
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" data-hover="dropdown" data-animations-delay="1.8s" data-animations="fadeInUp">
