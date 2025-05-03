@@ -5,8 +5,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="Fridolin Anthony" content="Developer at Arusha City Hospital">
+    <meta name="description" content="https://fmpza.github.io/webfridolin">
+      <meta name="Fridolin Anthony" content="Software Developer at Arusha City Hospital">
 
     <title>Home | Arusha City Hospital</title>
 
