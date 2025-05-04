@@ -23,35 +23,26 @@
     align-items: center;
     height: 100vh;
     margin: 0;
-    background: linear-gradient(135deg, #222, #000);
+    background: #121212;
     font-family: 'Arial', sans-serif;
-    perspective: 1000px;
 }
 
-.spin-text {
-    font-size: 5rem;
-    font-weight: bold;
-    text-transform: uppercase;
+.shadow-dance-text {
+    font-size: 4rem;
     color: #fff;
-    text-shadow: 
-        1px 1px 0px #e63946, 
-        2px 2px 0px #f77f00, 
-        3px 3px 0px #fcbf49, 
-        4px 4px 0px #a8dadc, 
-        5px 5px 0px #457b9d;
-    transform: rotateY(0deg);
-    transform-style: preserve-3d;
-    animation: spin-3d 4s infinite linear;
+    text-shadow: 5px 5px 0 #ff005e, 10px 10px 0 #00d4ff;
+    animation: shadow-dance 2s infinite;
 }
 
-@keyframes spin-3d {
-    0% {
-        transform: rotateY(0deg);
+@keyframes shadow-dance {
+    0%, 100% {
+        text-shadow: 5px 5px 0 #ff005e, 10px 10px 0 #00d4ff;
     }
-    100% {
-        transform: rotateY(360deg);
+    50% {
+        text-shadow: -5px -5px 0 #00d4ff, -10px -10px 0 #ff005e;
     }
 }
+
 
 </style>
   
@@ -78,9 +69,9 @@
             data-textAlign="['center','center','center','center']" data-whitespace="['normal','normal','normal','normal']" data-frames='[{"delay":1000,"speed":1200,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
             data-startslide="0" data-endslide="7" data-responsive="on" data-responsive_offset="on" style="z-index: 9; letter-spacing: 1px;">
             
-           <div class="spin-container">
-    <h1 class="spin-text"><b>"Welcome to Arusha City Hospital"
-</b></h1>
+          
+            <div class="shadow-dance-container">
+    <h1 class="shadow-dance-text">"Welcome to Arusha City Hospital"</h1>
 </div>
             
            
