@@ -15,6 +15,76 @@
   <link rel="stylesheet" type="text/css" href="style/type/icons.css">
   <link rel="stylesheet" type="text/css" href="style_new.css">
   <link rel="stylesheet" type="text/css" href="style/css/color/lavender.css">
+
+<style>
+  @import url(https://fonts.googleapis.com/css?family=Concert+One);
+
+h1 {
+  animation:glow 10s ease-in-out infinite;
+  
+  
+
+/* For less laggy effect, uncomment this:
+  
+  animation:none;
+  -webkit-text-stroke:1px #fff; 
+  
+=========== */
+  
+}
+
+
+
+* { box-sizing:border-box; }
+
+body {
+  background:#0a0a0a;
+  overflow:hidden;
+  text-align:center;
+}
+
+figure {
+  animation:wobble 5s ease-in-out infinite;
+  transform-origin:center center;
+  transform-style:preserve-3d;
+}
+
+@keyframes wobble {
+  0%,100%{ transform:rotate3d(1,1,0,40deg); }
+  25%{ transform:rotate3d(-1,1,0,40deg); }
+  50%{ transform:rotate3d(-1,-1,0,40deg); }
+  75%{ transform:rotate3d(1,-1,0,40deg); }
+}
+
+h1 {
+  display:block;
+  width:100%;
+  padding:40px;
+  line-height:1.5;
+  font:900 8em 'Concert One', sans-serif;
+  text-transform:uppercase;
+  position:absolute;
+  color:#0a0a0a;
+}
+
+@keyframes glow {
+  0%,100%{ text-shadow:0 0 30px red; }
+  25%{ text-shadow:0 0 30px orange; }
+  50%{ text-shadow:0 0 30px forestgreen; }
+  75%{ text-shadow:0 0 30px cyan; }
+}
+
+h1:nth-child(2){ transform:translateZ(5px); }
+h1:nth-child(3){ transform:translateZ(10px);}
+h1:nth-child(4){ transform:translateZ(15px); }
+h1:nth-child(5){ transform:translateZ(20px); }
+h1:nth-child(6){ transform:translateZ(25px); }
+h1:nth-child(7){ transform:translateZ(30px); }
+h1:nth-child(8){ transform:translateZ(35px); }
+h1:nth-child(9){ transform:translateZ(40px); }
+h1:nth-child(10){ transform:translateZ(45px); }
+</style>
+  
 </head>
 <body>
     <!--/.social-wrapper -->
@@ -36,7 +106,22 @@
         <div class="tp-static-layers">
           <div class="tp-caption tp-static-layer font-weight-700 text-uppercase color-white text-center" data-x="center" data-y="middle" data-fontsize="['65','65','55','35']" data-lineheight="['75','75','65','45']" data-width="['800','800','680','340']"
             data-textAlign="['center','center','center','center']" data-whitespace="['normal','normal','normal','normal']" data-frames='[{"delay":1000,"speed":1200,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
-            data-startslide="0" data-endslide="7" data-responsive="on" data-responsive_offset="on" style="z-index: 9; letter-spacing: 1px;"><font color="white"><b><div class="shadow-lg p-3 mb-5 bg-body-tertiary rounded">"Welcome to Arusha City Hospital"
+            data-startslide="0" data-endslide="7" data-responsive="on" data-responsive_offset="on" style="z-index: 9; letter-spacing: 1px;">
+            
+            <figure>
+  <h1>3d CSS GLOW</h1>
+  <h1>3d CSS GLOW</h1>
+  <h1>3d CSS GLOW</h1>
+  <h1>3d CSS GLOW</h1>
+  <h1>3d CSS GLOW</h1>
+  <h1>3d CSS GLOW</h1>
+  <h1>3d CSS GLOW</h1>
+  <h1>3d CSS GLOW</h1>
+  <h1>3d CSS GLOW</h1>
+  <h1>3d CSS GLOW</h1>  
+</figure>
+            
+            <font color="white"><b><div class="shadow-lg p-3 mb-5 bg-body-tertiary rounded">"Welcome to Arusha City Hospital"
 </div></b></font> <br>
             <br>
 <p>
