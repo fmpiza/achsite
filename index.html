@@ -23,23 +23,24 @@
     align-items: center;
     height: 100vh;
     margin: 0;
-    background: #121212;
+    background: #000;
     font-family: 'Arial', sans-serif;
+    overflow: hidden;
 }
 
-.shadow-dance-text {
+.neon-text {
     font-size: 4rem;
     color: #fff;
-    text-shadow: 5px 5px 0 #ff005e, 10px 10px 0 #00d4ff;
-    animation: shadow-dance 2s infinite;
+    text-shadow: 0 0 5px #ff005e, 0 0 10px #ff005e, 0 0 20px #ff005e, 0 0 40px #ff005e, 0 0 80px #ff005e;
+    animation: glow 1.5s infinite alternate;
 }
 
-@keyframes shadow-dance {
-    0%, 100% {
-        text-shadow: 5px 5px 0 #ff005e, 10px 10px 0 #00d4ff;
+@keyframes glow {
+    0% {
+        text-shadow: 0 0 5px #ff005e, 0 0 10px #ff005e, 0 0 20px #ff005e, 0 0 40px #ff005e, 0 0 80px #ff005e;
     }
-    50% {
-        text-shadow: -5px -5px 0 #00d4ff, -10px -10px 0 #ff005e;
+    100% {
+        text-shadow: 0 0 10px #00d4ff, 0 0 20px #00d4ff, 0 0 40px #00d4ff, 0 0 80px #00d4ff, 0 0 160px #00d4ff;
     }
 }
 
@@ -70,8 +71,9 @@
             data-startslide="0" data-endslide="7" data-responsive="on" data-responsive_offset="on" style="z-index: 9; letter-spacing: 1px;">
             
           
-            <div class="shadow-dance-container">
-    <h1 class="shadow-dance-text">"Welcome to Arusha City Hospital"</h1>
+            
+            <div class="neon-container">
+    <h1 class="neon-text">"Welcome to Arusha City Hospital"</h1>
 </div>
             
            
