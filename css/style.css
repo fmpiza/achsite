@@ -623,7 +623,7 @@ button {
     /*color: #00B092;*/
 }
 
-@media only screen and (max-width: 644px) {
+@media only screen and (max-width: 480px) {
     .header-top {
        display: none;
     }
@@ -1028,7 +1028,7 @@ a.flip-animate:hover span:before, a.flip-animate:focus span:before {
     transform: skew(-20deg);
     z-index: -1;
 }
-@media screen and (max-width: 991px) {
+@media screen and (max-width: 480px) {
   
     .conner-style .navbar-brand:before {
         display: none;
@@ -1543,7 +1543,7 @@ a.flip-animate:hover span:before, a.flip-animate:focus span:before {
 /* RESPONSIVE
 /*------------------------------------------------------*/
 
-@media (max-width: 991px) {
+@media (max-width: 480px) {
     .slide-text {
         display: none;
     }
@@ -1555,7 +1555,7 @@ a.flip-animate:hover span:before, a.flip-animate:focus span:before {
 
 
 /*---------- MEDIA 480px ----------*/
-@media  (max-width: 768px) {
+@media  (max-width: 480px) {
     .slide-text {
         padding: 10px 50px;
     }
