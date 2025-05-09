@@ -4297,17 +4297,17 @@ footer {
 }
 .footer-widget-one p {
   color: #a4a4a4;
-  font-size: 14px;
+  font-size: 12px;
   margin-bottom: 21px;
 }
 .footer-widget-one .address li {
   color: #a4a4a4;
-  font-size: 15px;
+  font-size: 12px;
   margin-bottom: 10px;
 }
 .footer-widget-one .address li i {
   margin-right: 8px;
-  font-size: 16px;
+  font-size: 12px;
   color: #00B092;
 }
 .social-icon li {
@@ -4315,7 +4315,7 @@ footer {
   width: 40px;
   height: 40px;
   line-height: 40px;
-  font-size: 16px;
+  font-size: 12px;
   text-align: center;
   cursor: pointer;
 }
@@ -4423,7 +4423,7 @@ footer {
     position: relative;
 }
 .news-img a span {
-    font-size: 16px;
+    font-size: 12px;
     position: absolute;
     top: 70%;
     left: 50%;
@@ -4470,7 +4470,7 @@ footer {
     transition: all 0.3s ease-in-out;
 }
 .news-area .news-content p{
-  font-size: 15px;
+  font-size: 12px;
   padding-top: 10px;
 }
 .news-area .news-content span{
@@ -4517,7 +4517,7 @@ footer {
 
 
 .footer-title h4 {
-  font-size: 16px;
+  font-size: 12px;
 }
 .border-style-1,
 .border-style-2,
@@ -4687,7 +4687,7 @@ footer {
     color: #fff;
     content: "\e618";
     font-family: 'Pe-icon-7-stroke';
-    font-size: 16px;
+    font-size: 12px;
     font-weight: 300;
     left: 45%;
     position: absolute;
@@ -4712,7 +4712,7 @@ footer {
   margin-bottom: 15px;
 }
 .footer-btn {
-    font-size: 13px;
+    font-size: 12px;
     color: #fff;
     background: #4d4d4d;
 }
@@ -4722,7 +4722,7 @@ footer {
 }
 
 .footer-btn-1 {
-    font-size: 13px;
+    font-size: 12px;
     color: #fff;
     background: #00B092;
 }
@@ -4731,7 +4731,7 @@ footer {
     background: #4d4d4d;
 }
 .footer-item .footer-feature i {
-  font-size: 16px;
+  font-size: 12px;
   margin-bottom: 15px;
 }
 .footer-copy-right .container {
@@ -4873,7 +4873,7 @@ footer {
     height: 0;
     width: 0;
     text-align: center;
-    font-size: 30px;
+    font-size: 12px;
 }
 
 .gallery-info,
@@ -4888,7 +4888,7 @@ footer {
 
 .gallery-info h4 {
     margin-bottom: 0;
-    font-size: 14px;
+    font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 1px;
 }
@@ -4980,7 +4980,7 @@ footer {
     background-color: #fff;
     border: 1px solid #00b092;
     color: #00b092;
-    font-size: 14px;
+    font-size: 12px;
     font-weight: 600;
     margin: 0 3px;
     padding: 10px 12px;
@@ -5015,7 +5015,7 @@ footer {
 }
 
 .inner-bg p span {
-    font-size: 15px;
+    font-size: 12px;
     padding-left: 15px;
     padding-right: 15px;
     color: #a9a9a9;
@@ -5117,7 +5117,7 @@ footer {
 .preview-features-item ul li {
     padding-bottom: 15px;
     color: #222;
-    font-size: 16px;
+    font-size: 12px;
     font-weight: 500;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
@@ -5137,7 +5137,7 @@ footer {
 }
 
 .preview-features-item ul li i {
-    font-size: 18px;
+    font-size: 12px;
     color: #00B092;
 }
 
