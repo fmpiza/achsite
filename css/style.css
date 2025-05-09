@@ -1337,7 +1337,7 @@ a.flip-animate:hover span:before, a.flip-animate:focus span:before {
     z-index: 100;
     color: #ffffff;
     display: block;
-    font-size: 24px;
+    font-size: 16px;
     cursor: pointer;
     overflow: hidden;
     line-height: 43px;
@@ -1560,7 +1560,7 @@ a.flip-animate:hover span:before, a.flip-animate:focus span:before {
         padding: 10px 50px;
     }
     .slide-text h1 {
-        font-size: 30px;
+        font-size: 16px;
         line-height: 40px;
         margin-bottom: 10px;
     }
@@ -1590,7 +1590,7 @@ a.flip-animate:hover span:before, a.flip-animate:focus span:before {
 .main-slider-bg h2 {
     color: #FFF;
     font-family: 'Raleway', sans-serif;
-    font-size: 40px;
+    font-size: 16px;
     letter-spacing: 2px;
     margin-bottom: 35px;
     margin-top: 100px;
@@ -1614,7 +1614,7 @@ a.flip-animate:hover span:before, a.flip-animate:focus span:before {
 .owl-controls .owl-prev i {
   border: 1px solid #00B092;
   color: #00B092;
-  font-size: 30px;
+  font-size: 16px;
   height: 40px;
   line-height: 36px;
   text-align: center;
@@ -1624,7 +1624,7 @@ a.flip-animate:hover span:before, a.flip-animate:focus span:before {
 .owl-controls .owl-next i {
   border: 1px solid #00B092;
   color: #00B092;
-  font-size: 30px;
+  font-size: 16px;
   height: 40px;
   line-height: 36px;
   text-align: center;
@@ -1721,7 +1721,7 @@ body {
 .about-wrap-2 ul li span {
     color: #00B092;
     margin-right: 5px;
-    font-size: 17px;
+    font-size: 16px;
 }
 .who-we-are {
     position: relative;
@@ -1833,7 +1833,7 @@ body {
 }
 .appointment-item h5 {
     margin-top: 20px;
-    font-size: 22px;
+    font-size: 16px;
     
 }
 .appointment-item h5 a {
@@ -1844,7 +1844,7 @@ body {
     color: #f7f7f7;
 }
 .appointment-item i {
-    font-size: 50px;
+    font-size: 16px;
 }
 .appointment-item button {
     font-weight: 600;
@@ -1909,7 +1909,7 @@ body {
 }
 
 .doctor-item i {
-    font-size: 70px;
+    font-size: 16px;
     color: #222;
 }
 
@@ -1947,7 +1947,7 @@ body {
     width: auto;
 }
 .welcome-text i {
-    font-size: 300px;
+    font-size: 16px;
     position: absolute;
     left: 0;
     right: 0;
@@ -1959,7 +1959,7 @@ body {
 }
 .welcome-text h4 {
     line-height: 30px;
-    font-size: 22px;
+    font-size: 16px;
     text-transform: none;
 }
 
@@ -2141,7 +2141,7 @@ content: "\f10d";
 }
 
 .practice-img a span {
-    font-size: 50px;
+    font-size: 16px;
     position: absolute;
     top: 70%;
     left: 50%;
@@ -2367,7 +2367,7 @@ content: "\f10d";
     transition: all 0.3s ease-in-out;
 }
 .counter-col i:before {
-    font-size: 60px;
+    font-size: 16px;
 }
 .counter-col i {
     color: #FFF;
@@ -2441,7 +2441,7 @@ content: "\f10d";
     transition: all 0.3s ease-in-out;
 }
 .service-item i {
-    font-size: 45px;
+    font-size: 16px;
     color: #333;
     padding: 10px;
     display: inline-block;
@@ -2479,10 +2479,10 @@ content: "\f10d";
     transition: all 0.3s ease-in-out;
 }
 .service-item.style-1 i:before {
-    font-size: 40px;
+    font-size: 16px;
 }
 .service-item.style-1 i {
-    font-size: 30px;
+    font-size: 16px;
     padding: 0;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
@@ -2545,7 +2545,7 @@ content: "\f10d";
     color: #00B092;
 }
 .service-item-2 span {
-    font-size: 18px;
+    font-size: 16px;
     margin-right: 5px;
     margin-left: 5px;
     font-weight: 600;
@@ -2559,7 +2559,7 @@ content: "\f10d";
 
 .service-item.style-2 i {
     border: 1px solid #333;
-    font-size: 30px;
+    font-size: 16px;
     color: #222;
 }
 .service-item.style-2:hover i {
@@ -2570,7 +2570,7 @@ content: "\f10d";
 }
 .form-horizontal .service-item.style-2 i {
     border: 1px solid #00B092;
-    font-size: 30px;
+    font-size: 16px;
     background: #00B092;
     color: #FFF;
 }
@@ -2618,7 +2618,7 @@ content: "\f10d";
     border: 1px solid #007EA3;
 }
 .service-item.style-3 span {
-    font-size: 50px;
+    font-size: 16px;
     color: #00b092;
 }
 .service-item.style-3 {
@@ -2641,7 +2641,7 @@ content: "\f10d";
 }
 .service-item.style-4 i {
     padding: 30px 20px;
-    font-size: 50px;
+    font-size: 16px;
 }
 .service-item.style-4:hover i {
     background: #00B092;
@@ -2828,7 +2828,7 @@ content: "\f10d";
     background: #00B092;
     padding: 10px;
     margin-right: 10px;
-    font-size: 17px;
+    font-size: 16px;
 }
 .team-details address ul li a {
     color: #00B092;
@@ -2947,7 +2947,7 @@ content: "\f10d";
     color: #ddd;
     top: 43%;
     transform: rotate(90deg);
-    font-size: 36px;
+    font-size: 16px;
 }
 
 .skills {
@@ -3056,7 +3056,7 @@ content: "\f10d";
     position: absolute;
     right: 5px;
     top: 10px;
-    font-size: 24px;
+    font-size: 16px;
     transition: all 0.5s;
     transform: scale(1);
     font-family: FontAwesome;
@@ -3071,7 +3071,7 @@ content: "\f10d";
 
 #bs-collapse .panel-heading a:after {
   content: ' ';
-  font-size: 24px;
+  font-size: 16px;
   position: absolute;
   right: 5px;
   top: 10px;
@@ -3090,7 +3090,7 @@ content: "\f10d";
 
 #accordion .panel-heading a:before {
     content: '\f106';
-    font-size: 20px;
+    font-size: 16px;
     position: absolute;
     right: 20px;
     top: 15px;
@@ -3173,7 +3173,7 @@ content: "\f10d";
 }
 
 .choose-us .item-1 .text span:before {
-    font-size: 30px;
+    font-size: 16px;
 }
 .choose-us .item-1 .text {
     position: absolute;
@@ -3332,7 +3332,7 @@ content: "\f10d";
 }
 
 .subscriber i {
-    font-size: 30px;
+    font-size: 16px;
     background: #3b5998;
     width: 80px;
     height: 80px;
@@ -3344,7 +3344,7 @@ content: "\f10d";
 }
     
 .subscriber h4 {
-    font-size: 26px;
+    font-size: 16px;
     font-weight: 100;
     margin-bottom: 20px;
 }  
@@ -3789,7 +3789,7 @@ to {
 }
 .blog-item .blog-content h4 {
     margin-bottom: 15px;
-    font-size: 24px;
+    font-size: 16px;
     -webkit-transition: all 0.5s ease-in-out;
     -moz-transition: all 0.5s ease-in-out;
     -o-transition: all 0.5s ease-in-out;
@@ -4060,7 +4060,7 @@ to {
     padding: 20px;
 }
 .blog-item.style-1 .blog-content h4 {
-    font-size: 18px;
+    font-size: 16px;
     -webkit-transition: all 0.5s ease-in-out;
     -moz-transition: all 0.5s ease-in-out;
     -o-transition: all 0.5s ease-in-out;
@@ -4087,15 +4087,15 @@ to {
   top: 0;
 }
 .blog-inner-section .blog-item.style-1 .blog-date i {
-  font-size: 20px;
+  font-size: 16px;
 }
 .blog-inner-section .blog-item.style-1 a h4 {
-  font-size: 24px;
+  font-size: 16px;
 }
 .blog-inner-section .blog-item.style-1 .blog-date h3 small,
 .blog-inner-section .blog-item.style-1 .blog-date a {
   color: #a4a4a4;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 
@@ -4235,7 +4235,7 @@ to {
     text-align: center;
     color: #fff;
     border: none;
-    font-size: 20px;
+    font-size: 16px;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
@@ -4307,7 +4307,7 @@ footer {
 }
 .footer-widget-one .address li i {
   margin-right: 8px;
-  font-size: 18px;
+  font-size: 16px;
   color: #00B092;
 }
 .social-icon li {
@@ -4315,7 +4315,7 @@ footer {
   width: 40px;
   height: 40px;
   line-height: 40px;
-  font-size: 18px;
+  font-size: 16px;
   text-align: center;
   cursor: pointer;
 }
@@ -4423,7 +4423,7 @@ footer {
     position: relative;
 }
 .news-img a span {
-    font-size: 22px;
+    font-size: 16px;
     position: absolute;
     top: 70%;
     left: 50%;
@@ -4517,7 +4517,7 @@ footer {
 
 
 .footer-title h4 {
-  font-size: 20px;
+  font-size: 16px;
 }
 .border-style-1,
 .border-style-2,
@@ -4687,7 +4687,7 @@ footer {
     color: #fff;
     content: "\e618";
     font-family: 'Pe-icon-7-stroke';
-    font-size: 24px;
+    font-size: 16px;
     font-weight: 300;
     left: 45%;
     position: absolute;
@@ -4731,7 +4731,7 @@ footer {
     background: #4d4d4d;
 }
 .footer-item .footer-feature i {
-  font-size: 30px;
+  font-size: 16px;
   margin-bottom: 15px;
 }
 .footer-copy-right .container {
