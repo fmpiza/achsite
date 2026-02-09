@@ -374,7 +374,7 @@
     </section>
     <!-- divider end -->
     
-    <!-- Footer Style start -->
+   <!-- Footer Style start -->
     <footer class="bg-faded">
         <div class="container">
             <div class="section-content">
@@ -527,6 +527,23 @@
 
 
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
